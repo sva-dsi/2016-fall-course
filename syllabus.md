@@ -24,12 +24,14 @@ Fridays 5-6PM, by appointment via gcal
 
 ###DESCRIPTION
 
-Data visualizations shape the way we process media, and the expectations for activism and innovation globally. This course will introduce web development for data visualization, including an introduction to web scripting languages, version control for collaborative coding, and the authorship of interactive narratives on the web. 
+Data visualizations increasingly shape the way we process the success of initiatives, and the expectations for activism and innovation globally. How might you evaluate the success or impact of a program? What skills should you hone to communicate your projects and progress to a new audience? How can technology hone critical thinking and problem framing for a particular area of social need and interest? 
 
-The goal of the course is to compliment student's existing coursework and interests with some essential coding skills, by course completion, helping them design, build, and deploy a data-driven interactive on a topic related to their work. Students will workshop an interactive of their own design throughout the course, punctuated by smaller exercises and lecture pairings on the topics of HTML5/CSS3, Javascript and contemporary development in open source and non-profit tech.
+This course will introduce web development for data visualization, including an introduction to web scripting languages, version control for collaborative coding, and the authorship of interactive visualization on/off the web.
+
+The goal of the course is to compliment student's existing coursework and interests with some basic visualization skills, by course completion, helping them design, build, and deploy a data-driven interactive on a topic related to their work. Students will workshop an interactive of their own design throughout the course, punctuated by smaller exercises and lecture pairings on the topics of HTML5/CSS3, Javascript and contemporary development in open source and non-profit tech.
 
 ###OBJECTIVE + LEARNING OUTCOMES
-Being successful in programming or social change initiatives involves producing under deadline. Employers, collaborators, and patrons of your products will expect that you work efficiently. This course is modeled on your future success, and so deadlines will be applied to keep time with a professional pace. The final project for the course, and primary graded assignment, will depend on an agglutinative series of tasks designed to help you learn and think critically throughout the semester. 
+Being successful in programming or social change initiatives involves producing under deadline. Funders, employers, collaborators, and patrons of your products will expect that you work efficiently. This course is modeled for your future success, and so deadlines will be applied to keep time with a professional pace. The final project for the course, and primary graded assignment, will depend on an agglutinative series of tasks designed to help you learn and think critically throughout the semester. 
 
 ####LEARNING OUTCOMES:
 

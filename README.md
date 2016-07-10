@@ -17,3 +17,4 @@ This course will introduce web development for data visualization, including an 
 
 * Read on for the [syllabus](https://github.com/sva-dsi/2016-fall-course/blob/master/syllabus.md), [bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md), and slides/exercises in this repository.
 * Check out our Github [classroom here](https://classroom.github.com/classrooms/20387575-sva-dsi-data-vis).
+* Like our logo? Check out the [Pixels for Food Project by Logo Dust](http://pixels4food.com/?logodust).

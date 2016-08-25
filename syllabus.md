@@ -650,7 +650,11 @@ Continue with working on your final projects.
 
 >"Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience." ~ Pixar, [_22 Rules of storytelling_](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/).
 
-This will be a follow-up lab to polish your projects and get extra-help.
+This will be a follow-up lab to polish your projects and get extra-help. 
+
+There will be no class. Instead, each student will make individual appointments with me to meet over Google Hangouts and discuss his/her project and get help with bugs, issues, or fixing final projects.
+
+An invite will be sent to coordinate this meeting the week prior.
 
 ####READING
 * Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).

@@ -278,14 +278,11 @@ Consider the pieces and work shown by the guest lecturer, highlight some aspect 
 
 ##9/27/16
 
-####DATA-DRIVEN JOURNALISM
-####NO CLASS: Yom Kippur
-
-There will  be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week, and do the readings and exercise below. The makeup course will be the final project presentation day, a chance to workshop your projects as well, held on 11/24/15.
+####DATA-DRIVEN DEVELOPMENT
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
-What is data-driven journalism and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives.
+What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives.
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
@@ -332,11 +329,33 @@ Try to find one or two datasets that suit a narrative or argument you'd like to 
 Link to the datasets if they are available online, if not, explain how you intend to get those data over the course of the next few weeks.
 
 ##10/04/16
+
+####INTRO TO CREATIVE CODE + VISUALIZATIONS
+
+> "For people just starting out, I'd suggest starting either with Processing or D3. Both of them have a very large user base and a great number of examples you can learn from." ~ Jan Willem Tulp
+
+![Open SNPs](https://github.com/sva-dsi/2016-fall-course/blob/master/imgs/snps.png)
+
+**Interactive to Inspire**: 
+
+* Ben Fry, [_Isometric Blocks_](http://benfry.com/isometricblocks/)
+
+This week kicks off our visualization series, we'll be exploring Processing, and creative languages for data visualization.
+
+####READINGS:
+* Dormehl, L., [_The 5 Best Libraries for Data Visualization](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
+
+####PRACTICE:
+
+####ASSIGNMENT:
+
+###10/11/16
+
 ####STATISTICS AND TIME-SERIES INTERACTIVES
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 
-This week kicks off our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs.
+This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs.
 
 
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
@@ -365,7 +384,7 @@ Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
 5. Use your practice exercise to defend your pitch with a prototype.
 
-##10/11/16
+##10/18/16
 ####(COUNTER)MAPS AND CARTOGRAPHICS
 
 >"It's turtles all the way down" ~ [Wikipedia](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
@@ -415,7 +434,7 @@ If that seems overwhelming, try to follow these tutorials instead:
 Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethis-applescript/) and how you would construct a pitch for the narrative there. Think about that when you write your pitch.
 
 
-##10/18/16
+##10/25/16
 ####NETWORK AND GRAPH VISUALIZATIONS
 
 This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets.
@@ -445,7 +464,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 Alternatively, for your assignment, you can try to make a Graph Visualization with sample data (say from Sigma.js's examples page, or from another graph example/library), or follow the [following tutorial](http://thinkingonthinking.com/Getting-Started-With-D3/), take notes on your experience and screenshots of your work along the way.
 
-##10/25/16
+##11/01/16
 ####COLOR THEORY: ART, DESIGN, + PERCEPTION
 >"It’s not uncommon for designers to confuse a beautiful looking product with one that works beautifully. A great technique for creating smarter, better products is to approach them using story-centered design." ~ B. Kowitz
 
@@ -479,7 +498,7 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 * Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
 
-##11/1/16
+##11/08/16
 ####CHOOSING AN INTERACTIVE
 
 Choosing a way to display your data is a non-trivial operation, and using the past few weeks' study of a few general visualization types, we'll discuss what combination of visual data diagrams best suit the data we've groomed for our final projects. We'll also go over some of the tools for rendering those data as such.
@@ -505,7 +524,7 @@ Diagram (aka, discuss in one ¶) what type of visualization you choose for your 
 Keep in mind how this changes or updates your style guide from last week; update that assignment where necessary; and link to the style guide at the end of your proposal.
 
 
-##11/8/16
+##11/15/16
 ####CREATIVE NARRATIVE
 
 >"And I want you to ask yourself when you make things, when you prototype interactions, 'am I thinking about my own clock, or the user’s?' Am I going to help someone make order in his or her life, or am I going to send that person to a commune in Vermont?" ~ P. Ford
@@ -545,7 +564,7 @@ Here are some resources to help you get it on the web.
 
 Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects (unless you choose a more creative way of hosting it). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
 
-###11/15/16
+###11/22/16
 ####UNDERSTANDING IMPACT + ADDRESSING BIAS
 
 >"I realize there’s a whole lot of inspiration out there, and some damn fine examples of great work, but I still find it hard to get a sense of direction...We need to know what makes a data story “work”. And what does a data story that “works” even mean?" ~ N. Diakopoulos
@@ -575,7 +594,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 ####ASSIGNMENT
 Continue with last week's assignment, work on publishing your project on github, posting the interactive on `gh-pages`, and explaining your process, sources, and reasoning in your README.md.
 
-##11/22/16
+##11/29/16
 ####THE FUTURE OF MEDIA + FINAL PROJECTS
 
 > "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ J. Spann
@@ -613,23 +632,19 @@ Continue with working on your final projects.
 	* **Demo Link**
 	* **Project Procedure**: describe your data processing, visualization selection, and analysis post-visualization
 	
-##11/29/16
+##12/06/16
 
 ####PROJECT CLINIC
 
 >"Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience." ~ Pixar, [_22 Rules of storytelling_](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/).
 
-Tues., 11/24, 6-7:50PM, Make-up for Yom Kippur Course
-
-This will be a follow-up lab to polish your projects and get extra-help. I realize it's before Thanksgiving and this might be a tense travel time for you. Sorry about that, the New School mandates that the make-up is on this day.
-
-![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
+This will be a follow-up lab to polish your projects and get extra-help.
 
 ####READING
 * Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
 
 ####FINAL PROJECTS
-**DUE**: 11/25/15 9AM, in my inbox. 
+**DUE**: 12/13/16 9AM, in my inbox. 
 
 Please send the link to your project repository and any supportive materials to my email <mosera@newschool.edu>.
 
@@ -639,22 +654,19 @@ We will spend the first minutes of class going over your project pitches, please
 
 But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
 
-##12/6/16
-
-####TESTING + OPEN SOURCE GUIDELINES
-
-
 ##12/13/16
 
 ####PRESENTATIONS AND DEMOS
+
+![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
 
 #SERVICES + RESOURCES
 
 ###CODE (OF CONDUCT)
-It's not that hard, code or respect. You will be expected to produce both in this class. We will set the tone for it here, so you can graple with its absence from an informed position in the workplace. 
+It's not that hard, code or respect. You will be expected to produce both in this class. 
 
-Part of that code of conduct is a partnership we are building in mutual respect. I take it personally when you miss my classes and my assignments; being ontime is a way to show myself and the other students that you have respect for us. If you fail to do that, you're hindering your own education, but more importantly you're hindering your reputation as a person with integrity. 
+This code of conduct is a partnership we are building in mutual respect. I take it personally when you miss my classes and my assignments; being ontime is a way to show myself and the other students that you have respect for us. If you fail to do that, you're hindering your own education, but more importantly you're hindering your reputation as a person with integrity. 
 
 Here are a few general things:
 

@@ -60,6 +60,7 @@ Most of this class will focus on the fundamentals of HTML/CSS/Javascript. The co
 * Cukier, J., [D3 and Data Visualization Blog/Tutorials](http://www.jeromecukier.net/).
 * [Dashing D3.js](https://www.dashingd3js.com/).
 * Lin, M., [Essential coding skills for journalism students](http://www.mulinblog.com/essential-coding-skills-journalism-students/).
+* Lee, S., [6 Essential Skills for Design for Social Innovation](https://medium.com/foossa-files/6-essential-skills-for-design-and-social-innovation-d81d9a5bac15#.ciixdtfqw)
 * Murray, S., [D3 Tutorials](http://alignedleft.com/tutorials/d3/).
 * [Processing Tutorials](https://processing.org/tutorials/).
 

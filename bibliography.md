@@ -38,7 +38,7 @@ Here is a summary list of readings that may or may not be listed directly in the
 * Suda, B., [_Different Charts tell different tales_](http://datajournalismhandbook.org/1.0/en/delivering_data_6.html).
 
 ### MAPPING
-* Bahgat, K., [_Visualizing geodata: Python GIS resources_](https://pythongisresources.wordpress.com/visualizing-geodata/).
+* Bahgat, K., [_Visualizing geodata: Python GIS resources_](https://pythongisresources.wordpress.com/toolkits/).
 * Crampton, J., [_An introduction to critical cartography_](http://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography).
 * Eschbacher, A., [_Map Academy_](https://carto.com/academy/).
 * Foster, M., [_The lost art of critical map reading_](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/).
@@ -70,7 +70,7 @@ Should you like to do some additional exercises to boost your skills, here are s
 * [Coursera](https://www.coursera.org/).
 	* Johns Hopkins: ["Computing for data analysis"](https://www.coursera.org/course/compdata), starts late September.
 * [Canvas Network](https://www.canvas.net/).
-* Eschbacher, A., [Map Academy](academy.cartodb.com).
+* Eschbacher, A., [Map Academy](https://carto.com/academy/).
 * [For Journalism](http://forjournalism.com/).
 * [Udacity](https://www.udacity.com/).
 	* [Data visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507).
@@ -78,5 +78,6 @@ Should you like to do some additional exercises to boost your skills, here are s
 
 
 ## MISC.
-* Mullin, B., [40 great journalism internships](http://www.poynter.org/news/mediawire/272241/here-are-27-great-journalism-internships-and-fellowships-for-application-season/).
+* [Social Good jobs](http://socialgoodjobs.org/).
+* Open News, [SOURCE jobs list: a running index of open source opportunities](https://source.opennews.org/en-US/jobs/)
 * NYTimes, [Newsroom summer internships](http://www.nytco.com/careers/Newsroom-Summer-Internships/).

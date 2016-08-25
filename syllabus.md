@@ -93,11 +93,11 @@ Each week you will have readings assigned, accompanied by often (but not always)
 
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
-|  2   |  09/13  | Critique an interactive  | X | |
-|  3   |  09/20  | Evaluating platforms + Versioning  | X | GUEST LECTURER |
-|  4   |  09/27  | Comparing interactives  | X |  |
-|  5   |  10/04  | Dataset study | X | |
-|  6   |  10/11  | Intro to Creative Code + Visualizations  | X | |
+|  2   |  09/13  | Critique an interactive  | X | GUEST LECTURER |
+|  3   |  09/20  | Comparing interactives  | X |  |
+|  4   |  09/27  | Evaluating platforms + Versioning  | X |  |
+|  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
+|  6   |  10/11  | Dataset selection  | X | NO CLASS |
 |  6   |  10/18  | **Prototype 1**: Time-Series/Stats  | X | |
 |  7   |  10/25  | **Prototype 2**: Mapping  | X | |
 |  8   |  11/01  | **Prototype 3**: Graphs  |  | |
@@ -158,58 +158,8 @@ It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatt
 Remember, you can view a template of what your assignment format herein this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
 ##9/13/16
-####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
 
->"I just wanted to share my view on the distinction I personally make between the two main types of visualization function: exploratory and explanatory" ~ A. Kirk
-
-How can you be a journalist with integrity and intelligence in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. 
-
-We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative.
-
-![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
-
-**Interactive to Inspire**: 
-
-* Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
-
-####READING
-* Bengfort, B., [_Markup for Fast Data Science Publication_](https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication).
-* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
-
-**OPTIONAL READINGS**:
-
-* Aaker, J., [_Persuasion and the power of the story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
-* Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
-* Kirk, A., [_Storytelling and success stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
-
-
-####PRACTICE
-Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay! You can see blocks in action in today's Interactive to Inspire above, which links to the [raw version of the interactive](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/) as well as [the code](http://bl.ocks.org/anonymous/2f1e9a5a74ceeb88e977) (if you remove the `raw` in the URL).
-
-This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
-
-* Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
-* Learn CSS Layout, [Practic Site](http://learnlayout.com/)
-* Howe, S. [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
-
-
-Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
-
-
-####ASSIGNMENT
-Take a look at the following platforms for citizen journalism and community activism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing, inspiring change or soliciting grassroots opinion if you find none of these satisfactory, and explain why it seems superior.
-
-* [Reportedly](https://medium.com/reportedly/welcome-to-reported-ly-3363a5fb7ea5)
-* [Beautiful Rising](https://beautifulrising.org/)
-* [Grasswire](https://gigaom.com/2014/05/16/grasswire-founder-austen-allred-is-trying-to-build-a-wikipedia-style-platform-for-real-time-news/)
-* [Bellingcat](https://www.bellingcat.com/)
-
-Consider the readings an try include a sentence or two about how they are relevant to this exercise.
-
-BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
-
-##9/20/16
-####NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES
+####NEW PLATFOR[U]MS: HOSTING FOR INTERACTIVES
 
 This week we'll here from some interactive developers working in newsrooms in NYC. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother.
 
@@ -275,6 +225,58 @@ Think about who handled it (that is, the topic) better:
 Why? How? What aspects are more or less compelling, what would you say is a better approach to communicating this material?
 
 Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to test, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace.
+
+##9/20/16
+
+####MARK-UP/DOWN: SELF-PUBLISHING INTERACTIVE PROJECTS
+
+>"I just wanted to share my view on the distinction I personally make between the two main types of visualization function: exploratory and explanatory" ~ A. Kirk
+
+How can you be innovate with integrity and intelligence in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. 
+
+We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative.
+
+![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
+
+**Interactive to Inspire**: 
+
+* Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
+
+####READING
+* Bengfort, B., [_Markup for Fast Data Science Publication_](https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication).
+* Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
+
+**OPTIONAL READINGS**:
+
+* Aaker, J., [_Persuasion and the power of the story_](http://futureofstorytelling.org/video/persuasion-and-the-power-of-story/).
+* Kaufman, L., [_Bombings trip up Reddit in its turn in spotlight_](http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=0).
+* Kirk, A., [_Storytelling and success stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
+
+
+####PRACTICE
+Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay! You can see blocks in action in today's Interactive to Inspire above, which links to the [raw version of the interactive](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/) as well as [the code](http://bl.ocks.org/anonymous/2f1e9a5a74ceeb88e977) (if you remove the `raw` in the URL).
+
+This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
+
+* Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
+* Learn CSS Layout, [Practic Site](http://learnlayout.com/)
+* Howe, S. [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
+
+
+Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
+
+
+####ASSIGNMENT
+Take a look at the following platforms for citizen journalism and community activism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing, inspiring change or soliciting grassroots opinion if you find none of these satisfactory, and explain why it seems superior.
+
+* [Reportedly](https://medium.com/reportedly/welcome-to-reported-ly-3363a5fb7ea5)
+* [Beautiful Rising](https://beautifulrising.org/)
+* [Grasswire](https://gigaom.com/2014/05/16/grasswire-founder-austen-allred-is-trying-to-build-a-wikipedia-style-platform-for-real-time-news/)
+* [Bellingcat](https://www.bellingcat.com/)
+
+Consider the readings an try include a sentence or two about how they are relevant to this exercise.
+
+BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
 ##9/27/16
 
@@ -344,14 +346,24 @@ This week kicks off our visualization series, we'll be exploring Processing, and
 
 ####READINGS:
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
+* [Open Processing](http://openprocessing.org/)
+* Processing.org, [Learning Tutorials](https://processing.org/tutorials/)
 
 ####PRACTICE:
 
+Review the [Processing Hour Of Code](http://hello.processing.org/editor/) exercise (1 hr long), don't feel compelled to spend the whole hour, just skim the video for the components of processing that interest you.
+
 ####ASSIGNMENT:
+
+
 
 ###10/11/16
 
 ####STATISTICS AND TIME-SERIES INTERACTIVES
+
+####NO CLASS: Yom Kippur
+
+There will  be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week, and do the readings and exercise below.
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 

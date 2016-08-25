@@ -6,7 +6,7 @@ Data Visualization - SVA-DSI
 Here is a summary list of readings that may or may not be listed directly in the syllabus. Should you want to go more in depth or require additional clarity on certain topics, feel free to consult the following resources to learn more. We'll move fast this semester, I don't expect you to have time for all of this, but you might skim some of the resources as they are relevant to your projects.
 
 ## DATA 
-* Boyer, Keefe, Lindberg, Park, Wu. [_Five-minute field guide](http://datajournalismhandbook.org/1.0/en/getting_data_0.html).
+* Boyer, Keefe, Lindberg, Park, Wu. [_Five-minute field guide_](http://datajournalismhandbook.org/1.0/en/getting_data_0.html).
 * Knight Center for Journalism in the Americas, [_Data visualization resources and ideas_](http://www.mulinblog.com/data-visualization-resources-and-ideas/).
 * Looney, M., [_Global data journalism resources by country_](http://ijnet.org/blog/global-data-journalism-resources)
 * Misra, R., [_30 places to find open data on the web_](http://blog.visual.ly/data-sources/).
@@ -40,7 +40,7 @@ Here is a summary list of readings that may or may not be listed directly in the
 ### MAPPING
 * Bahgat, K., [_Visualizing geodata: Python GIS resources_](https://pythongisresources.wordpress.com/visualizing-geodata/).
 * Crampton, J., [_An introduction to critical cartography_](http://www.researchgate.net/publication/241435510_An_Introduction_to_Critical_Cartography).
-* Eschbacher, A., [_Map Academy_](academy.cartodb.com).
+* Eschbacher, A., [_Map Academy_](https://carto.com/academy/).
 * Foster, M., [_The lost art of critical map reading_](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/).
 * Lloyd, D. et al., [_Meditating geovisualization to potential users_](https://www.e-education.psu.edu/geog583/sites/www.e-education.psu.edu.geog583/files/Lloyd_Prototyping_GeoViz.pdf).
 * Wiseman, A., [_When maps lie_](http://www.citylab.com/design/2015/06/when-maps-lie/396761/).

@@ -105,7 +105,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
 | 11   |  11/22  | Template your project  |  | |
 | 12   |  11/29  | Peer review: groom projects with feedback |  | |
-| 13   |  12/06  | -- |  | PROJECT CLINIC |  
+| 13   |  12/06  | -- |  | PROJECT CLINIC - NO CLASS |  
 | 14   |  12/13  | **Final Presentations/Final Projects Due**  |  | DEMO |
 
 * note: November 08 is Election Day, if you are eligible to vote, I encourage you to do so.
@@ -353,8 +353,12 @@ This week kicks off our visualization series, we'll be exploring Processing, and
 
 Review the [Processing Hour Of Code](http://hello.processing.org/editor/) exercise (1 hr long), don't feel compelled to spend the whole hour, just skim the video for the components of processing that interest you.
 
-####ASSIGNMENT:
+Other resources that might be useful to you:
 
+* [P5 JS lessons](https://github.com/processing/p5.js/wiki/Education)
+* [Introdhttps://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info
+http://codingrainbow.com/
+####ASSIGNMENT:
 
 
 ###10/11/16
@@ -655,6 +659,13 @@ This will be a follow-up lab to polish your projects and get extra-help.
 There will be no class. Instead, each student will make individual appointments with me to meet over Google Hangouts and discuss his/her project and get help with bugs, issues, or fixing final projects.
 
 An invite will be sent to coordinate this meeting the week prior.
+
+This meeting will go over:
+
+* the status of your project
+* any lingering problems to troubleshoot
+* how to evaluate and test your projects prior to submission
+* how to document your project
 
 ####READING
 * Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).

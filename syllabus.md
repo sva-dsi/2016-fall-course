@@ -1,4 +1,4 @@
-Data Visualization - SVA-DSI
+Metrics + Data Visualization I - SVA-DSI
 ========
 
 ![gallery](http://i.imgur.com/JgTstrz.png)
@@ -10,17 +10,17 @@ Find this resource here:
 
 ###COURSE LOGISTICS:
 	SVA
-	Sept. 2nd - Nov. 18th
+	Sept. 6th - Dec 13th
 	Tuesdays 6-9:00PM
 
-Here is the [course listing]().
+Here is the [course listing](http://dsi.sva.edu/course/metrics-and-data-visualization-i/).
 
 ###INSTRUCTOR:
 	Aurelia Moser
 	@auremoser
 	
 ###OFFICE HOURS: 
-Fridays 5-6PM, by appointment via gcal
+Fridays 5-6PM, by appointment via gcal - send to aurelia@mozillafoundation.org
 
 ###DESCRIPTION
 
@@ -39,14 +39,14 @@ Being successful in programming or social change initiatives involves producing 
 2. how to bulletproof your data
 3. the merits of certain visualization types
 4. the mechanics of collaboration and github
-5. the basics of building interactive graphics: html/css/js
+5. the basics of building interactive graphics: html/css/js/processing
 6. the value of publishing and self-publishing 
 
 ####GRADE CALCULATION:
 Here is a basic breakdown of graded tasks along that trajectory:
 
-* 20% Attendance/Participation
-* 20% Assignments
+* 10% Attendance/Participation
+* 30% Assignments
 * 20% Project Proposal
 * 40% Final Project, completed on conclusion of the course
 
@@ -64,7 +64,8 @@ Coding is an art; you will have a series of art supplies for this course that wi
 
 **DOWNLOAD AND INSTALL**
 
-* Text Editor - [Sublime Text](http://www.sublimetext.com/)
+* Text Editor - [Sublime Text](http://www.sublimetext.com/) or [Atom.io](https://atom.io/)
+* Processing - [Processing sketch editor](https://processing.org/download/?processing)
 * A Markdown Editor - [Mou](http://25.io/mou/)
 
 **LEARN**
@@ -92,21 +93,21 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
 |  2   |  09/13  | Critique an interactive  | X | |
-|  3   |  09/20  | Evaluate platforms  | X | GUESTS |
+|  3   |  09/20  | Evaluating platforms + Versioning  | X | GUEST LECTURER |
 |  4   |  09/27  | Comparing interactives  | X |  |
 |  5   |  10/04  | Dataset study | X | |
-|  6   |  10/11  | **Prototype 1**: Time-Series/Stats  | X | NO CLASS |
-|  7   |  10/18  | **Prototype 2**: Mapping  | X | |
-|  8   |  10/25  | **Prototype 3**: Graphs  |  | |
-|  9   |  11/01  | Style guide for Final Project  |  | |
-| 10   |  11/08  | **Proposal** for Final Project | X | |
-| 11   |  11/15  | Template your project  |  | |
-| 12   |  11/22  | Peer review: groom projects with feedback |  | |
-| 13   |  11/29  | **Project Clinic**  |  |  |
-| 14   |  12/06  | **Testing and Open Source Guidlines**  |  |  |
-| 15   |  12/13  | **Final Presentations/Final Projects Due**  |  | DEMO |
+|  6   |  10/11  | Intro to Creative Code + Visualizations  | X | |
+|  6   |  10/18  | **Prototype 1**: Time-Series/Stats  | X | |
+|  7   |  10/25  | **Prototype 2**: Mapping  | X | |
+|  8   |  11/01  | **Prototype 3**: Graphs  |  | |
+|  9   |  11/08  | Style guide for Final Project  |  | |
+| 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
+| 11   |  11/22  | Template your project  |  | |
+| 12   |  11/29  | Peer review: groom projects with feedback |  | |
+| 13   |  12/06  | -- |  | CLINIC |  
+| 14   |  12/13  | **Final Presentations/Final Projects Due**  |  | DEMO |
 
-* note October 11 is Yom Kippur, and we will be observing no classes that day, there will be take home work to keep up with activities for the remaining week.
+* note: November 08 is Election Day, if you are eligible to vote, I encourage you to do so.
 
 **READINGS**
 
@@ -114,11 +115,11 @@ Readings are assigned to correspond with that week's assignment and class lesson
 
 **There is no textbook for this course** as most of the resources can be found for free online.
 
-You can find the [FULL BIBLIOGRAPHY](https://github.com/auremoser/web-coding/blob/master/bibliography.md) in the repository for this course.
+You can find the [FULL BIBLIOGRAPHY](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md) in the repository for this course.
 
 
 #CLASS CALENDAR
-This course is 16 weeks long. Dates are based on the [academic calendar](http://www.sva.edu/events/academic) for SVA.
+This course is 15 weeks long. Dates are based on the [academic calendar](http://www.sva.edu/events/academic) for SVA.
 
 ##9/06/16
 ####INTRO TO INTERACTIVES

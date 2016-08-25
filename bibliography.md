@@ -68,6 +68,7 @@ Most of this class will focus on the fundamentals of HTML/CSS/Javascript. The co
 Should you like to do some additional exercises to boost your skills, here are some sources for supplemental MOOCs that can be taken in correspondence with this class.
 
 * Cairo, A., [Journalism Courses](http://journalismcourses.org/).
+* Shiffman, D., [Nature of Code](http://natureofcode.com/).
 * [Coursera](https://www.coursera.org/).
 	* Johns Hopkins: ["Computing for data analysis"](https://www.coursera.org/course/compdata), starts late September.
 * [Canvas Network](https://www.canvas.net/).
@@ -79,6 +80,6 @@ Should you like to do some additional exercises to boost your skills, here are s
 
 
 ## MISC.
-* [Social Good jobs](http://socialgoodjobs.org/).
+* Indeed, [Social Good jobs](http://socialgoodjobs.org/).
 * Open News, [SOURCE jobs list: a running index of open source opportunities](https://source.opennews.org/en-US/jobs/)
 * NYTimes, [Newsroom summer internships](http://www.nytco.com/careers/Newsroom-Summer-Internships/).

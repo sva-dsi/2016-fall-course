@@ -86,9 +86,10 @@ Attendance accounts for 20% of your final grade.
 
 Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them as contributions to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
-* All assignments will be submitted via [gist](gist.github.com) on your [Github](https://github.com/) account.
-* You can view a template of what your assignment should look like here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
-* Assignments are due on the following course date unless otherwise indicated. So, if readings and assignments are listed under 9/2, they are due by the following class date, 9/9, unless otherwise indicated.
+* All assignments will be submitted via [gist](https://gist.github.com/) on your [Github](https://github.com/) account.
+* You can view a template of what your assignment should look like here in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
+* Assignments are due on the course date following the class in which they are assigned unless otherwise indicated - there are short assignments every week
+
 
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
@@ -104,7 +105,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
 | 11   |  11/22  | Template your project  |  | |
 | 12   |  11/29  | Peer review: groom projects with feedback |  | |
-| 13   |  12/06  | -- |  | CLINIC |  
+| 13   |  12/06  | No assignment |  | PROJECT CLINIC |  
 | 14   |  12/13  | **Final Presentations/Final Projects Due**  |  | DEMO |
 
 * note: November 08 is Election Day, if you are eligible to vote, I encourage you to do so.
@@ -150,13 +151,13 @@ What is an interactive news app, and what is this course about? We'll talk about
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 
 ####ASSIGNMENT
-Find an interactive that you appreciate, prefereably (but not obligatorily) a journalism piece. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
+Find an interactive that you appreciate, prefereably (but not obligatorily) one that addresses a social issue of interest to you. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
 
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above, or review something in the [13pt Graphics list](http://13pt.com/graphics/), a grouping assembled by the NYTimes.
 
-Remember, you can view a template of what your assignment format here: [template](http://bl.ocks.org/auremoser/9dcfac8163e7737e7b5f) and in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
+Remember, you can view a template of what your assignment format herein this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
-##9/13/15
+##9/13/16
 ####MARK-UP/DOWN: SELF-PUBLISHING IN INTERACTIVE NEWS
 
 >"I just wanted to share my view on the distinction I personally make between the two main types of visualization function: exploratory and explanatory" ~ A. Kirk
@@ -188,22 +189,24 @@ Try to setup up a bl.ocks account based on your gists (the first few assignments
 This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
-* Basics of HTML/CSS, [Practice Site](http://webdive.ktam.org/web/basics)
+* Learn CSS Layout, [Practic Site](http://learnlayout.com/)
+* Howe, S. [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
 
 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
 
 
 ####ASSIGNMENT
-Take a look at the following platforms for online journalism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing if you find none of these satisfactory, and explain why it seems superior.
+Take a look at the following platforms for citizen journalism and community activism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing, inspiring change or soliciting grassroots opinion if you find none of these satisfactory, and explain why it seems superior.
 
 * [Reportedly](https://medium.com/reportedly/welcome-to-reported-ly-3363a5fb7ea5)
+* [Beautiful Rising](https://beautifulrising.org/)
 * [Grasswire](https://gigaom.com/2014/05/16/grasswire-founder-austen-allred-is-trying-to-build-a-wikipedia-style-platform-for-real-time-news/)
 * [Bellingcat](https://www.bellingcat.com/)
 
 Consider the readings an try include a sentence or two about how they are relevant to this exercise.
 
-Link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
+BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
 ##9/20/16
 ####NEW PLATFOR[U]MS: HOSTING FOR NEWS INTERACTIVES

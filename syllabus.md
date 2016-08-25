@@ -105,7 +105,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
 | 11   |  11/22  | Template your project  |  | |
 | 12   |  11/29  | Peer review: groom projects with feedback |  | |
-| 13   |  12/06  | No assignment |  | PROJECT CLINIC |  
+| 13   |  12/06  | -- |  | PROJECT CLINIC |  
 | 14   |  12/13  | **Final Presentations/Final Projects Due**  |  | DEMO |
 
 * note: November 08 is Election Day, if you are eligible to vote, I encourage you to do so.

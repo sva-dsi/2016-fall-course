@@ -100,7 +100,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
 |  6   |  10/11  | Dataset selection  | X | |
 |  6   |  10/18  | **Prototype 1**: Time-Series/Stats  | X | |
-|  7   |  10/25  | **Prototype 2**: Mapping  | X | |
+|  7   |  10/25  | **Prototype 2**: Mapping  | X | GUEST: Francis Tseng |
 |  8   |  11/01  | **Prototype 3**: Graphs  |  | |
 |  9   |  11/08  | Style guide for Final Project  |  | |
 | 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
@@ -362,7 +362,7 @@ http://codingrainbow.com/
 ####ASSIGNMENT:
 
 
-###10/11/16
+##10/11/16
 
 ####STATISTICS AND TIME-SERIES INTERACTIVES
 
@@ -451,12 +451,22 @@ Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethi
 ##10/25/16
 ####NETWORK AND GRAPH VISUALIZATIONS
 
-This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets.
+This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets. We'll feature a guest talk from Francis Tseng as well.
 
 ![Storylines](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/storylines.jpg)
 
 **Interactive to inspire**: Tanahashi, Y., UC Davis, [_StoryLines_](http://vis.cs.ucdavis.edu/~tanahashi/storylines/)
 You can read their [paper on the topic here](http://vis.cs.ucdavis.edu/~tanahashi/PUBLICATIONS/YZR_INFOVIS2012.pdf).
+
+##### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, self-employed
+
+Francis is a creative designer, programmer, researcher and visiting professor at Parsons. He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator). 
+
+He's worked on interactive projects like:
+
+* [_Humans of Simulated NY_](http://frnsys.com/hosny/)
+* [_The Founder_](http://thefounder.biz/)
+* [_ML 101_](https://github.com/frnsys/ml101)
 
 ####PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 

@@ -414,18 +414,19 @@ This week we'll explore geospatial data and mapping visualizations. We'll consid
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
 * Madrigal, A., [_How Google Builds Its Maps – and What It Means for the Future of Everything_](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) The Atlantic (September 5, 2012).
 * Tolochko, R., [_Introduction to the Geo-command line_](https://developmentseed.org/blog/2015/08/27/geo-command-line-introduction/).
+* Lee, J.K., [_Broc-cli: geo_ : command line tutorial](http://joeyklee.github.io/broc-cli-geo/?id=qo2sgp8z3v9igpofprwly2e29)
 * Wiseman, A., [_When maps lie_](http://www.citylab.com/design/2015/06/when-maps-lie/396761/).
 
 **Check these out**:
 
-* Eschbacher, A., [_Map Academy_](academy.cartodb.com).
+* Eschbacher, A., [_Map Academy_](https://carto.com/academy/).
 * Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
 * [Radical Cartography](http://radicalcartography.net/).
 
 ####PRACTICE
-[CartoDB](cartodb.com) is an online mapping platform and series of libraries/APIS that allows you to map geospatial data easiy in Javascript. 
+[Carto](https://carto.com/) is an online mapping platform and series of libraries/APIS that allows you to map geospatial data easiy in Javascript. 
 
-Here is [an example using CartoDB.JS for a Census tract visualization of water quantity](http://bl.ocks.org/auremoser/f27ed862a4aaf664c31f).
+Here is [an example using Carto.JS for a Census tract visualization of water quantity](http://bl.ocks.org/auremoser/f27ed862a4aaf664c31f).
 
 Here is a [more complex example with button selectors for exploring data and reloading layers](http://bl.ocks.org/ohasselblad/e5e438b4e83a4c1d12e9).
 
@@ -433,9 +434,9 @@ Try to modify the code the match your own data and integrate your practice into 
 
 If that seems overwhelming, try to follow these tutorials instead:
 
-* **Tutorial**: [Creating your first map with CartoDB.JS](http://docs.cartodb.com/tutorials/create_map_cartodbjs.html).
-* **Map Academy**: [Online mapping for beginners](http://academy.cartodb.com/courses/01-beginners-course.html)
-* **Map Academy**: [Carto.JS](http://academy.cartodb.com/courses/03-cartodbjs-ground-up.html)
+* **Tutorial**: [Creating your first map with Carto.JS](https://carto.com/docs/tutorials/create_map_cartodbjs/).
+* **Map Academy**: [Online mapping for beginners](https://carto.com/academy/courses/beginners-course/)
+* **Map Academy**: [Carto.JS](https://carto.com/academy/courses/cartojs-ground-up/)
 
 ####ASSIGNMENT
 1. Find some geospatial data. 

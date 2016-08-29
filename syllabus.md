@@ -93,11 +93,12 @@ Each week you will have readings assigned, accompanied by often (but not always)
 
 | WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
+|  1   |  09/06  | Read the syllabus  | | |
 |  2   |  09/13  | Critique an interactive  | X | GUEST LECTURER |
 |  3   |  09/20  | Comparing interactives  | X |  |
 |  4   |  09/27  | Evaluating platforms + Versioning  | X |  |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
-|  6   |  10/11  | Dataset selection  | X | NO CLASS |
+|  6   |  10/11  | Dataset selection  | X | |
 |  6   |  10/18  | **Prototype 1**: Time-Series/Stats  | X | |
 |  7   |  10/25  | **Prototype 2**: Mapping  | X | |
 |  8   |  11/01  | **Prototype 3**: Graphs  |  | |
@@ -364,10 +365,6 @@ http://codingrainbow.com/
 ###10/11/16
 
 ####STATISTICS AND TIME-SERIES INTERACTIVES
-
-####NO CLASS: Yom Kippur
-
-There will  be no class on this date, but I would like you to investigate datasets and topics for your final project during this break week, and do the readings and exercise below.
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 

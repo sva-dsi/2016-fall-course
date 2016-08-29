@@ -458,9 +458,9 @@ This week we'll consider visualizations that illustrate spatial relationships be
 **Interactive to inspire**: Tanahashi, Y., UC Davis, [_StoryLines_](http://vis.cs.ucdavis.edu/~tanahashi/storylines/)
 You can read their [paper on the topic here](http://vis.cs.ucdavis.edu/~tanahashi/PUBLICATIONS/YZR_INFOVIS2012.pdf).
 
-##### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, self-employed
+##### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
 
-Francis is a creative designer, programmer, researcher and visiting professor at Parsons. He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator). 
+Francis is a creative designer, programmer, researcher at [New Inc](http://www.newinc.org/). He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator).
 
 He's worked on interactive projects like:
 

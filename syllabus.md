@@ -99,8 +99,8 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  4   |  09/27  | Evaluating platforms + Versioning  | X |  |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
 |  6   |  10/11  | Dataset selection  | X | |
-|  6   |  10/18  | **Prototype 1**: Time-Series/Stats  | X | |
-|  7   |  10/25  | **Prototype 2**: Mapping  | X | GUEST: Francis Tseng |
+|  6   |  10/18  | **Prototype 1**: Mapping  | X | GUEST: Andy Eschbacher |
+|  7   |  10/25  | **Prototype 2**: Time-Series/Stats  | X | GUEST: Francis Tseng |
 |  8   |  11/01  | **Prototype 3**: Graphs  |  | |
 |  9   |  11/08  | Style guide for Final Project  |  | |
 | 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
@@ -364,51 +364,28 @@ http://codingrainbow.com/
 
 ##10/11/16
 
-####STATISTICS AND TIME-SERIES INTERACTIVES
-
-> "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
-
-This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs.
-
-
-![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
-
-**Interactive to Inspire**: 
-
-* Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
-
-####READINGS:
-* Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
-* Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
-* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
-* LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
-
-####PRACTICE
-[C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
-
-Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
-
-Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/auremoser/6236a61e5383ab0bc71d). If you feel like this is more relevant to your dataset, you can use that template too.
-
-####ASSIGNMENT
-1. Find some time-series or statistical data. 
-2. Think about the narrative that you might build around it. 
-3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
-4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
-5. Use your practice exercise to defend your pitch with a prototype.
-
-##10/18/16
 ####(COUNTER)MAPS AND CARTOGRAPHICS
 
 >"It's turtles all the way down" ~ [Wikipedia](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
 
-This week we'll explore geospatial data and mapping visualizations. We'll consider cartography as a method of storytelling on a fairly intuitive canvas, and we'll explore a few tools that help you parse geographic information.
+This week we'll explore geospatial data and mapping visualizations. We'll consider cartography as a method of storytelling on a fairly intuitive canvas, and we'll explore a few tools that help you parse geographic information. We'll feature a guest talk from Andy Eschbacher as well.
 
 ![Losing Ground](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/losing.jpg)
 
 **Interactive to Inspire**: 
 
 * ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
+
+##### [Andy Eschbacher](https://carto.com/blog/introducing-andy/), Carto
+
+Andy is a physicist, educator, and programmer at [Carto](https://carto.com/). He'll give a talk on his work as a map scientist and cool open source technologies to build thoughtful, creative, and clever map tools for the masses.
+
+He's worked on interactive projects like:
+
+* [_The Map Academy_](http://frnsys.com/hosny/)
+* [_Carto's Builder_](https://carto.com/builder/)
+* [_Maps + Bl.ocks_](https://bl.ocks.org/ohasselblad)
+* [_Crankshaft_](https://github.com/CartoDB/crankshaft)
 
 ####READINGS
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
@@ -447,6 +424,40 @@ If that seems overwhelming, try to follow these tutorials instead:
 
 Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethis-applescript/) and how you would construct a pitch for the narrative there. Think about that when you write your pitch.
 
+##10/18/16
+
+####STATISTICS AND TIME-SERIES INTERACTIVES
+
+> "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
+
+This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs.
+
+
+![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
+
+**Interactive to Inspire**: 
+
+* Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
+
+####READINGS:
+* Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
+* Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
+* Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
+* LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
+
+####PRACTICE
+[C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
+
+Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
+
+Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/auremoser/6236a61e5383ab0bc71d). If you feel like this is more relevant to your dataset, you can use that template too.
+
+####ASSIGNMENT
+1. Find some time-series or statistical data. 
+2. Think about the narrative that you might build around it. 
+3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
+4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
+5. Use your practice exercise to defend your pitch with a prototype.
 
 ##10/25/16
 ####NETWORK AND GRAPH VISUALIZATIONS

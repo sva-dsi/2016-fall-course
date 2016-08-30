@@ -91,15 +91,15 @@ Each week you will have readings assigned, accompanied by often (but not always)
 * Assignments are due on the course date following the class in which they are assigned unless otherwise indicated - there are short assignments every week
 
 
-| WEEK  |  DATE  | ASSIGNMENT  | PRACTICE | NOTE |
+| WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/06  | Read the syllabus  | | |
 |  2   |  09/13  | Critique an interactive  | X | GUEST LECTURER |
 |  3   |  09/20  | Comparing interactives  | X |  |
 |  4   |  09/27  | Evaluating platforms + Versioning  | X |  |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
-|  6   |  10/11  | Dataset selection  | X | |
-|  6   |  10/18  | **Prototype 1**: Mapping  | X | GUEST: Andy Eschbacher |
+|  6   |  10/11  | Dataset selection  | X | GUEST: Andy Eschbacher |
+|  6   |  10/18  | **Prototype 1**: Mapping  | X |  |
 |  7   |  10/25  | **Prototype 2**: Time-Series/Stats  | X | GUEST: Francis Tseng |
 |  8   |  11/01  | **Prototype 3**: Graphs  |  | |
 |  9   |  11/08  | Style guide for Final Project  |  | |

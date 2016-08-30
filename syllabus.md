@@ -295,7 +295,7 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 ##### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
 
-Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her work](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
+Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her projects](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
 
 She's worked on interactive projects like:
 

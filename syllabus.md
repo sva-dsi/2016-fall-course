@@ -453,7 +453,7 @@ This week continues our visualization series, we'll be exploring data sets for t
 
 Ekene Ijeoma is a designer and artist based at Orbital. He was recently awarded NYFA Fellowship in Design, Urban Environments and Architecture and featured in Adweek's Creative 100 as 1 of the 10 "visual artists whose imagination and intellect will inspire you" and Good Magazine's Good 100 for "tackling pressing global issues". He'll give a talk on his work.
 
-She's worked on interactive projects like:
+He's worked on interactive projects like:
 
 * [_The Refugee Project_](http://www.therefugeeproject.org/)
 * [_Wage Islands_](https://vimeo.com/138549946)

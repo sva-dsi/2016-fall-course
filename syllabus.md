@@ -96,7 +96,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  1   |  09/06  | Read the syllabus  | | |
 |  2   |  09/13  | Critique an interactive  | X | GUEST LECTURER |
 |  3   |  09/20  | Comparing interactives  | X |  |
-|  4   |  09/27  | Evaluating platforms + Versioning  | X |  |
+|  4   |  09/27  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
 |  6   |  10/11  | Dataset selection  | X | GUEST: Andy Eschbacher |
 |  6   |  10/18  | **Prototype 1**: Mapping  | X |  |
@@ -285,13 +285,23 @@ BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
-What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives.
+What is data-driven development and what kind of stories can it help us convey? How does it relate to art, and why are visualizations such an important component to interactive development? This week, we'll identify some data sources to support solid narratives. We'll feature a guest talk from Caroline Sinders as well.
 
 ![Guantanamo Calendar)](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/history.jpg)
 
 **Interactive to Inspire**: 
 
 * NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
+
+##### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
+
+Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her work](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
+
+She's worked on interactive projects like:
+
+* [_Night Witches_](http://carolinesinders.com/#/nightwitches/)
+* [_Intel.IQ_](http://carolinesinders.com/#/inteliq/)
+* [_Read Your Tags_](http://carolinesinders.com/#/readyourtags/)
 
 ####READINGS
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).

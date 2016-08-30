@@ -392,7 +392,7 @@ Andy is a physicist, educator, and programmer at [Carto](https://carto.com/). He
 
 He's worked on interactive projects like:
 
-* [_The Map Academy_](http://frnsys.com/hosny/)
+* [_The Map Academy_](https://carto.com/academy/)
 * [_Carto's Builder_](https://carto.com/builder/)
 * [_Maps + Bl.ocks_](https://bl.ocks.org/ohasselblad)
 * [_Crankshaft_](https://github.com/CartoDB/crankshaft)

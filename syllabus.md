@@ -94,7 +94,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/06  | Read the syllabus  | | |
-|  2   |  09/13  | Critique an interactive  | X | REMOTE |
+|  2   |  09/13  | Critique an interactive  | X | GUEST: Nadja Popovich |
 |  3   |  09/20  | Comparing interactives  | X |  |
 |  4   |  09/27  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
@@ -162,23 +162,11 @@ Remember, you can view a template of what your assignment format herein this [gi
 
 ####NEW PLATFOR[U]MS: HOSTING FOR INTERACTIVES
 
-This week we'll here from some interactive developers working in newsrooms in NYC. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother.
+This week we'll here from an interactive developer working in a newsroom in NYC; Aurelia will be out this week so Nadja Popovich will take her place, starting the course with a talk, after which you can leave class. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother. 
 
-**Guest Lecturers** 
+![Congress](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/congress.jpg)
 
-##### [Lena Groeger](http://www.propublica.org/site/author/lena_groeger), ProPublica
-
-Lena is a science journalist, developer, and designer at ProPublica, an investigative journalism group with a focus on longitudinal stories and throughful interactives. She'll give a talk on her work, and then you can all head home and work on the readings/assignments for this week.
-
-She's worked on interactive projects like:
-
-* [_Treatment tracker_](https://projects.propublica.org/treatment/)
-* [_Worker's comp_](http://projects.propublica.org/graphics/workers-compensation-benefits-by-limb)
-* [_The power of loops_](https://www.propublica.org/nerds/item/on-repeat-how-to-use-loops-to-explain-anything)
-
-![Treatment](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/treatment.jpg)
-
-ProPublica, [_Treatment tracker_](https://projects.propublica.org/treatment/).
+The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
 
 #####[Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
@@ -187,13 +175,9 @@ Nadja is an interactive journalist at the Guardian U.S.
 
 She's worked on interactive projects like:
 
-* [_The counted_](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings)
+* [_The Counted_](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-map-us-police-killings)
 * [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated)
 * [_Are you reflected in the new Congress?_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
-
-![Congress](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/congress.jpg)
-
-The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
 ####READINGS
 * Few, S., [_Data art vs. data visualization_](http://www.perceptualedge.com/blog/?p=1245).

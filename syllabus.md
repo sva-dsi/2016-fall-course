@@ -127,9 +127,9 @@ This course is 15 weeks long. Dates are based on the [academic calendar](http://
 
 ##9/06/16
 ####INTRO TO INTERACTIVES
->"There were three strong consensus answers: first, get good at understanding and presenting data. Second, understand how social media can work as a newsroom tool. Third, get whatever newsroom experience you can working in teams, and in launching new things." ~ Clay Shirky
+>"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice." ~ S. Few
 
-What is an interactive news app, and what is this course about? We'll talk about instances of success and failure in news apps, review some basics of this course and take care of some technical logistics to prep for next week.
+What is an interactive application, a data visualization, and what is this course about? We'll talk about instances of success and failure in apps, review some basics of this course and take care of some technical logistics related to Github, version control, and the basics of web literacy.
 
 ![Measles](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/measles.jpg)
 
@@ -161,6 +161,8 @@ Remember, you can view a template of what your assignment format herein this [gi
 ##9/13/16
 
 ####NEW PLATFOR[U]MS: HOSTING FOR INTERACTIVES
+
+>"Visualizations act as a campfire around which we gather to tell stories." ~ A. Shalloway
 
 This week we'll here from an interactive developer working in a newsroom in NYC; Aurelia will be out this week so Nadja Popovich will take her place, starting the course with a talk, after which you can leave class. Our practice and assignment exercises will go over different approaches to similar topics in news and art, and ways that they might inspire eachother. 
 

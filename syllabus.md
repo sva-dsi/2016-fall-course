@@ -171,7 +171,7 @@ This week we'll here from an interactive developer working in a newsroom in NYC;
 The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
 
-#####[Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
+####[Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
 
 Nadja is an interactive journalist at the Guardian U.S.
 
@@ -279,7 +279,7 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 * NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
 
-##### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
+#### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
 
 Caroline Sinders is a user researcher for IBM Watson, as well as an artist, researcher, and video game designer. She'll give a talk on [her projects](http://carolinesinders.com/), and thoughtful approaches to creative work with computers.
 
@@ -372,7 +372,7 @@ This week we'll explore geospatial data and mapping visualizations. We'll consid
 
 * ProPublica, [_Losing Ground_](http://projects.propublica.org/louisiana/).
 
-##### [Andy Eschbacher](https://carto.com/blog/introducing-andy/), Carto
+#### [Andy Eschbacher](https://carto.com/blog/introducing-andy/), Carto
 
 Andy is a physicist, educator, and programmer at [Carto](https://carto.com/). He'll give a talk on his work as a map scientist and cool open source technologies to build thoughtful, creative, and clever map tools for the masses.
 
@@ -435,7 +435,7 @@ This week continues our visualization series, we'll be exploring data sets for t
 
 * Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
 
-##### [Ekene Ijeoma](http://ekeneijeoma.com/), New INC.
+#### [Ekene Ijeoma](http://ekeneijeoma.com/), New INC.
 
 Ekene Ijeoma is a designer and artist based at Orbital. He was recently awarded NYFA Fellowship in Design, Urban Environments and Architecture and featured in Adweek's Creative 100 as 1 of the 10 "visual artists whose imagination and intellect will inspire you" and Good Magazine's Good 100 for "tackling pressing global issues". He'll give a talk on his work.
 
@@ -475,7 +475,7 @@ This week we'll consider visualizations that illustrate spatial relationships be
 **Interactive to inspire**: Tanahashi, Y., UC Davis, [_StoryLines_](http://vis.cs.ucdavis.edu/~tanahashi/storylines/)
 You can read their [paper on the topic here](http://vis.cs.ucdavis.edu/~tanahashi/PUBLICATIONS/YZR_INFOVIS2012.pdf).
 
-##### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
+#### [Francis Tseng](http://frnsys.com/), NY Times, Coral Project, NEW Inc.
 
 Francis is a creative designer, programmer, researcher at [New Inc](http://www.newinc.org/). He'll give a talk on [his work](http://frnsys.com/) building throughful [comment systems](http://www.cjr.org/tow_center/improving_audience_engagement_coral_project.php), socially sentient machines and [dystopic business simulators](https://www.kickstarter.com/projects/frnsys/the-founder-a-dystopian-business-simulator).
 

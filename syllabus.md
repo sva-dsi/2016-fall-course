@@ -94,7 +94,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/06  | Read the syllabus  | | |
-|  2   |  09/13  | Critique an interactive  | X | GUEST LECTURER |
+|  2   |  09/13  | Critique an interactive  | X | REMOTE |
 |  3   |  09/20  | Comparing interactives  | X |  |
 |  4   |  09/27  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
@@ -440,7 +440,7 @@ Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethi
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 
-This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll also feature a guest talk from Ekene Ijeoma
+This week continues our visualization series, we'll be exploring data sets for time-series interactives and statistical charts/graphs. We'll also feature a guest talk from Ekene Ijeoma.
 
 
 ![JDeaths](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/timeseries.jpg)
@@ -449,15 +449,15 @@ This week continues our visualization series, we'll be exploring data sets for t
 
 * Reuters Graphics, [_Journalism Deaths_](http://graphics.thomsonreuters.com/14/journalist-deaths/index.html).
 
-##### [Ekene Ijeoma](http://ekeneijeoma.com/), Orbital
+##### [Ekene Ijeoma](http://ekeneijeoma.com/), New INC.
 
 Ekene Ijeoma is a designer and artist based at Orbital. He was recently awarded NYFA Fellowship in Design, Urban Environments and Architecture and featured in Adweek's Creative 100 as 1 of the 10 "visual artists whose imagination and intellect will inspire you" and Good Magazine's Good 100 for "tackling pressing global issues". He'll give a talk on his work.
 
 He's worked on interactive projects like:
 
-* [_The Refugee Project_](http://www.therefugeeproject.org/)
-* [_Wage Islands_](https://vimeo.com/138549946)
 * [_Look Up_](http://look-up.nyc/)
+* [_Wage Islands_](https://vimeo.com/138549946)
+* [_The Refugee Project_](http://www.therefugeeproject.org/)
 
 ####READINGS:
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).

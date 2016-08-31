@@ -80,15 +80,17 @@ You will find a parter, or a triplet in this course and have some time afforded 
 
 **ATTENDANCE/PARTICIPATION**
 
-Attendance accounts for 20% of your final grade. 
+Attendance accounts for 10% of your final grade. 
 
 **ASSIGNMENTS**
 
 Each week you will have readings assigned, accompanied by often (but not always) an `Assignment` and a `Practice` activity. See the calendar below to confirm the expectations from week to week. I will grade your assignments and aggregate them as contributions to your final grade. Most assignments are working toward your Final Project, counting as 40% of your final grade.
 
 * All assignments will be submitted via [gist](https://gist.github.com/) on your [Github](https://github.com/) account.
+* Aurelia will repost assignments in Canvas, where possible
 * You can view a template of what your assignment should look like here in this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
-* Assignments are due on the course date following the class in which they are assigned unless otherwise indicated - there are short assignments every week
+* We have a [Github classroom](https://classroom.github.com/classrooms/20387575-sva-dsi-data-vis) for our course, to which you will add your final projects, more on that later.
+* Assignments are due on the course date following the class in which they are assigned unless otherwise indicated - there are short assignments every week - Week 2 for example, "Critique an interactive" is due on 9/13
 
 
 | WEEK  |  DATE  | ASSIGNMENT DUE  | PRACTICE | NOTE |
@@ -138,9 +140,6 @@ What is an interactive news app, and what is this course about? We'll talk about
 ####READINGS:
 * Darnton, R., [_Writing and telling stories_](http://dash.harvard.edu/bitstream/handle/1/3403047/darnton_news.pdf?sequence=2).
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
-* Norton, Q. [_The hypocrisy of the Internet journalist_](https://medium.com/message/the-hypocrisy-of-the-internet-journalist-587d33f6279e).
-* Rosen, J., [_When to quit your journalism job_](http://pressthink.org/2014/12/when-to-quit-your-journalism-job/).
-* Shirky, C., [_Last call: the end of the printed newspaper_](https://medium.com/@cshirky/last-call-c682f6471c70).
 
 ####PRACTICE:
 * Setup your [Github](github.com/) accounts
@@ -148,6 +147,7 @@ What is an interactive news app, and what is this course about? We'll talk about
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
 * [Terminal for Windows](https://conemu.github.io/)
 * [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
+* [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 

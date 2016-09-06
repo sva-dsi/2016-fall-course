@@ -104,8 +104,8 @@ Each week you will have readings assigned, accompanied by often (but not always)
 |  6   |  10/18  | **Prototype 1**: Mapping  | X | GUEST: Ekene Ijeoma |
 |  7   |  10/25  | **Prototype 2**: Time-Series/Stats  | X | GUEST: Francis Tseng |
 |  8   |  11/01  | **Prototype 3**: Graphs  |  | |
-|  9   |  11/08  | Style guide for Final Project  |  | |
-| 10   |  11/15  | **Proposal** for Final Project | X | ELECTION DAY |
+|  9   |  11/08  | Style guide for Final Project  |  | ELECTION DAY |
+| 10   |  11/15  | **Proposal** for Final Project | X |  |
 | 11   |  11/22  | Template your project  |  | |
 | 12   |  11/29  | Peer review: groom projects with feedback |  | |
 | 13   |  12/06  | -- |  | PROJECT CLINIC - NO CLASS |  

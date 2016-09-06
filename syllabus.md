@@ -97,7 +97,7 @@ Each week you will have readings assigned, accompanied by often (but not always)
 | :---- | ------ | ----------- | -------- | ---- |
 |  1   |  09/06  | Read the syllabus  | | |
 |  2   |  09/13  | Critique an interactive  | X | GUEST: Nadja Popovich |
-|  3   |  09/20  | Comparing interactives  | X |  |
+|  3   |  09/20  | Comparing interactives  | X | GUEST: Rachel Berry |
 |  4   |  09/27  | Evaluating platforms + Versioning  | X | GUEST: Caroline Sinders |
 |  5   |  10/04  | Intro to Creative Code + Visualizations | X | |
 |  6   |  10/11  | Dataset selection  | X | GUEST: Andy Eschbacher |
@@ -148,6 +148,7 @@ What is an interactive application, a data visualization, and what is this cours
 * [Terminal for Windows](https://conemu.github.io/)
 * [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
 * [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
+* [HTML/CSS Practice site](http://webdive.ktam.org/web/basics)
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 
@@ -219,11 +220,17 @@ Consider the pieces and work shown by the guest lecturer, highlight some aspect 
 
 >"I just wanted to share my view on the distinction I personally make between the two main types of visualization function: exploratory and explanatory" ~ A. Kirk
 
-How can you be innovate with integrity and intelligence in our contemporary world? You compete with social media, Medium, online platforms for editorializing quotidian experience. Your role is to provide information, unbiased but intelligible, this is the value you bring to your profession, and technologies gives you the media to communicate those values with clarity and immersive quality. This involves some code, but also concise research that guides readers to a greater understanding of the topics you are treating. 
+How can you use data visualization to innovate with integrity and intelligence in our contemporary world? There are many online venues and platforms for editorializing and delivering your message, which will you choose? This process might involve some code and custom building, but also concise research into your audience, and what guides viewers to a greater understanding of the topics you are treating. 
 
 We'll talk about ways you can publish your work, and practice a few different methods of distributing narrative.
 
 ![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
+
+####[Rachel Berry](https://github.com/cmrberry), Github
+
+Rachel is an Analytics Engineer at Github.
+
+She'll be talking about how to use Github to publish, host and render your code.
 
 **Interactive to Inspire**: 
 

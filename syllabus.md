@@ -698,7 +698,7 @@ This meeting will go over:
 ####FINAL PROJECTS
 **DUE**: 12/13/16 9AM, in my inbox. 
 
-Please send the link to your project repository and any supportive materials to my email <mosera@newschool.edu>.
+Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
 
 Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
 

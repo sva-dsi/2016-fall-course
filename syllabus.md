@@ -6,7 +6,7 @@ Metrics + Data Visualization I - SVA-DSI
 #SYLLABUS
 
 Find this resource here:
-<http://tinyurl.com/dsi-syllabus>
+<https://mzl.la/sva-vis-1>
 
 ###COURSE LOGISTICS:
 	SVA

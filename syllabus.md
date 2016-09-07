@@ -138,6 +138,7 @@ What is an interactive application, a data visualization, and what is this cours
 * WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
 
 ####READINGS:
+* [Today's Slides: Web Concepts](https://auremoser.github.io/web-concepts/#/14)
 * Darnton, R., [_Writing and telling stories_](http://dash.harvard.edu/bitstream/handle/1/3403047/darnton_news.pdf?sequence=2).
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 

@@ -135,7 +135,7 @@ What is an interactive application, a data visualization, and what is this cours
 
 **Interactive to Inspire**: 
 
-* WSJ Graphics, [_Infectionious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
+* WSJ Graphics, [_Infectious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
 
 ####READINGS:
 * [Today's Slides: Web Concepts](https://auremoser.github.io/web-concepts/#/14)
@@ -143,7 +143,7 @@ What is an interactive application, a data visualization, and what is this cours
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 
 ####PRACTICE:
-* Setup your [Github](github.com/) accounts
+* Setup your [Github](https://github.com/) accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
 * [Terminal for Windows](https://conemu.github.io/)
@@ -204,16 +204,16 @@ Here are some other resources for Github learning:
 
 
 ####ASSIGNMENT
-Think about who handled it (that is, the topic) better:
+The following interactive projects deal with data about drones. Think about who handled it (that is, the topic) better:
 
 * Motherboard: <https://www.muckrock.com/drone-census/>
 * Muckrock: <https://www.muckrock.com/drone-census/>
-* Pitch Interactive: <ttp://drones.pitchinteractive.com/>
+* Pitch Interactive: <http://drones.pitchinteractive.com/>
 * A Quiet Disposition: <http://aquietdisposition.com/>
 
-Why? How? What aspects are more or less compelling, what would you say is a better approach to communicating this material?
+Why was the one you chose superior? How? What aspects are more or less compelling, what would you say is a better approach to communicating this material?
 
-Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to test, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace.
+Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to write tests or evaluate the user experience of their project, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace. Then write a paragraph about how you would develop this skill, what resource you would use.
 
 ##9/20/16
 
@@ -227,15 +227,15 @@ We'll talk about ways you can publish your work, and practice a few different me
 
 ![Ramadan Tweets](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/ramadan.gif)
 
+**Interactive to Inspire**: 
+
+* Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
+
 ####[Rachel Berry](https://github.com/cmrberry), Github
 
 Rachel is an Analytics Engineer at Github.
 
 She'll be talking about how to use Github to publish, host and render your code.
-
-**Interactive to Inspire**: 
-
-* Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
 ####READING
 * Bengfort, B., [_Markup for Fast Data Science Publication_](https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication).
@@ -316,9 +316,7 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).
 
 ####PRACTICE
-In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/). 
-
-Including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl.
+In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl.
 
 ####ASSIGNMENT
 Do some research, find a few stories that inspire you, or [some that don't](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?CMP=twt_gu). Think about what data they use to prove their assertions, or what datasets might help to bolster their arguments. 
@@ -361,8 +359,9 @@ Review the [Processing Hour Of Code](http://hello.processing.org/editor/) exerci
 Other resources that might be useful to you:
 
 * [P5 JS lessons](https://github.com/processing/p5.js/wiki/Education)
-* [Introdhttps://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info
-http://codingrainbow.com/
+* [Introduction to P5 JS](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
+* [Coding Rainbow](http://codingrainbow.com/)
+
 ####ASSIGNMENT:
 
 

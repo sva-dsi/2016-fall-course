@@ -149,6 +149,7 @@ What is an interactive application, a data visualization, and what is this cours
 * [Terminal for Windows](https://conemu.github.io/)
 * [Terminal for Mac](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/)
 * [Command Line Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/)
+* [On Demand Github Tutorials](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 * [HTML/CSS Practice site](http://webdive.ktam.org/web/basics)
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
@@ -192,6 +193,7 @@ She's worked on interactive projects like:
 Continue to practice your fluency in Github commands with this online interactive tutorial.
 
 * [Code School Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1).
+* [On Demand Tutorials for Github](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
 * [Visual Guide to Git Branching](http://pcottle.github.io/learnGitBranching/).
 
 Finish the exercises on the Basics of HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics).

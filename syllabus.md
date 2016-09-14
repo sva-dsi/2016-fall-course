@@ -185,6 +185,7 @@ She's worked on interactive projects like:
 * [_Are you reflected in the new Congress?_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 
 ####READINGS
+* [Today's Slides: Web Github](https://auremoser.github.io/web-github/)
 * Few, S., [_Data art vs. data visualization_](http://www.perceptualedge.com/blog/?p=1245).
 * Koc, E., [_Interactive storytelling at the New York Times_](http://futurenytimes.org/reviews/interactive-storytelling/).
 * Slobin, S., [_Examples of data journalism_](http://datajournalismhandbook.org/1.0/en/introduction_3.html).

@@ -213,6 +213,7 @@ The following interactive projects deal with data about drones. Think about who 
 * Muckrock: <https://www.muckrock.com/drone-census/>
 * Pitch Interactive: <http://drones.pitchinteractive.com/>
 * A Quiet Disposition: <http://aquietdisposition.com/>
+* DroneHits: <http://dronehits.herokuapp.com/>
 
 Why was the one you chose superior? How? What aspects are more or less compelling, what would you say is a better approach to communicating this material?
 

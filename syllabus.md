@@ -201,9 +201,9 @@ Finish the exercises on the Basics of HTML/CSS [Practice Site](http://webdive.kt
 
 Here are some other resources for Github learning:
 
-* [Gitualize](http://gitualize.com/) - visualize github commit activity
 * [Is it maintained](http://isitmaintained.com/) - check the github status of a repository
-* [Girl](http://bamos.github.io/girl/) - check the github readme link status to make sure your README.md is solid and without broken links
+* [On Demand Tutorials for Github](https://github.github.com/on-demand/intro-to-github/)
+* [Github Student Developer Pack](https://education.github.com/pack)
 
 
 ####ASSIGNMENT

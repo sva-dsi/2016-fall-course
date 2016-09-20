@@ -553,7 +553,6 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 * Description of the dataset(s)
 * Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
-
 ##11/08/16
 ####CHOOSING AN INTERACTIVE
 

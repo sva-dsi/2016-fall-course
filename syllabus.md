@@ -194,7 +194,7 @@ She's worked on interactive projects like:
 Continue to practice your fluency in Github commands with this online interactive tutorial.
 
 * [Code School Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1).
-* [On Demand Tutorials for Github](https://advocacy.mozilla.org/en-US/open-web-fellows/fellows2016)
+* [On Demand Tutorials for Github](https://github.github.com/on-demand/intro-to-github/)
 * [Visual Guide to Git Branching](http://pcottle.github.io/learnGitBranching/).
 
 Finish the exercises on the Basics of HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics).
@@ -209,7 +209,7 @@ Here are some other resources for Github learning:
 ####ASSIGNMENT
 The following interactive projects deal with data about drones. Think about who handled it (that is, the topic) better:
 
-* Motherboard: <https://www.muckrock.com/drone-census/>
+* Motherboard: <http://motherboard.vice.com/read/faa-drone-fines>
 * Muckrock: <https://www.muckrock.com/drone-census/>
 * Pitch Interactive: <http://drones.pitchinteractive.com/>
 * A Quiet Disposition: <http://aquietdisposition.com/>

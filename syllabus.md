@@ -242,6 +242,9 @@ Rachel is an Analytics Engineer at Github.
 She'll be talking about how to use Github to publish, host and render your code.
 
 ####READING
+* Today's Slides: 
+	* [Web Github](https://auremoser.github.io/web-github/)
+	* [Web HTML](https://auremoser.github.io/web-html/#/)
 * Bengfort, B., [_Markup for Fast Data Science Publication_](https://districtdatalabs.silvrback.com/markup-for-fast-data-science-publication).
 * Kiss, J. and Arthur, C., [_Publishers or platforms? Media giants may be forced to choose_](http://www.theguardian.com/technology/2013/jul/29/twitter-urged-responsible-online-abuse).
 
@@ -259,7 +262,8 @@ This syllabus is written in markdown. You can study how it's made by looking at 
 
 * Bostock, M., [_Let's make a block_](http://bost.ocks.org/mike/block/)
 * Learn CSS Layout, [Practic Site](http://learnlayout.com/)
-* Howe, S. [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
+* Howe, S., [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
+* Tam, K., HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics)
 
 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
@@ -273,7 +277,7 @@ Take a look at the following platforms for citizen journalism and community acti
 * [Grasswire](https://gigaom.com/2014/05/16/grasswire-founder-austen-allred-is-trying-to-build-a-wikipedia-style-platform-for-real-time-news/)
 * [Bellingcat](https://www.bellingcat.com/)
 
-Consider the readings an try include a sentence or two about how they are relevant to this exercise.
+Consider the readings an try to incorporate some of the readings' content into your assessment of these different platforms.
 
 BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 

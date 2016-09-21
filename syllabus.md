@@ -264,6 +264,7 @@ This syllabus is written in markdown. You can study how it's made by looking at 
 * Learn CSS Layout, [Practic Site](http://learnlayout.com/)
 * Howe, S., [Learn to Code: HTML/CSS](http://learn.shayhowe.com/)
 * Tam, K., HTML/CSS [Practice Site](http://webdive.ktam.org/web/basics)
+* [Visdown: Visualization Markdown](http://visdown.amitkaps.com/)
 
 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.

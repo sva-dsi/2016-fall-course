@@ -325,7 +325,7 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).
 
 ####PRACTICE
-In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl.
+In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl. Another resource that might be helpful for dissecting visualizations is [Source](https://source.opennews.org/), a blog that dissects a lot of interactives for journalism articles, like this one on the Chicago [Police corruption investigation](https://source.opennews.org/en-US/articles/how-we-made-homan-square-portrait/).
 
 For coding practice, take a look at the [Completed](https://github.com/auremoser/web-html/tree/master/practice/completed) vs [Practice](https://github.com/auremoser/web-html/tree/master/practice/practice) files in this week's slides, and try to identify some differences that contribute to how different the visualizations look. Hint: look at the "stylesheets" or CSS files to see how they are different.
 

@@ -294,7 +294,7 @@ What is data-driven development and what kind of stories can it help us convey? 
 
 **Interactive to Inspire**: 
 
-* NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo).
+* NYTimes (2014), [_Guantanamo: A History of the Detainee Population_](http://projects.nytimes.com/guantanamo). Other visualizations have been built using [these same data](https://braid.io/tile/guantanamo-bay-detainees#all).
 
 #### [Caroline Sinders](http://carolinesinders.com/), Eyebeam, IBM Watson
 
@@ -326,6 +326,8 @@ The following are mostly data resources, feel free to use them for the assignmen
 
 ####PRACTICE
 In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl.
+
+For coding practice, take a look at the [Completed](https://github.com/auremoser/web-html/tree/master/practice/completed) vs [Practice](https://github.com/auremoser/web-html/tree/master/practice/practice) files in this week's slides, and try to identify some differences that contribute to how different the visualizations look. Hint: look at the "stylesheets" or CSS files to see how they are different.
 
 ####ASSIGNMENT
 Do some research, find a few stories that inspire you, or [some that don't](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?CMP=twt_gu). Think about what data they use to prove their assertions, or what datasets might help to bolster their arguments. 

@@ -307,7 +307,6 @@ She's worked on interactive projects like:
 * [_Read Your Tags_](http://carolinesinders.com/#/readyourtags/)
 
 ####READINGS
-* [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).
 * Emery, A., [_The DataViz design process_](http://annkemery.com/dataviz-design-process/).
 * Harris, J., [_NYTimes: How the data sausage gets made_](https://source.opennews.org/en-US/learning/how-sausage-gets-made/).
@@ -321,6 +320,12 @@ The following are mostly data resources, feel free to use them for the assignmen
 * Moser, A. + friends, [_Federal datasets_](https://etherpad.mozilla.org/fed-data)
 * Pitts, R., [_Journalists guide to datasets_](https://github.com/ryanpitts/journalists-guide-datasets).
 * [Awesome list of open access datasets](https://github.com/caesar0301/awesome-public-datasets)
+
+The following are mostly for coding practice, feel free to use them to keep up with your coding skills
+
+* [Learn X in Y Minutes](https://learnxinyminutes.com/)
+* [HTML Site](http://webdive.ktam.org/web/basics)
+* [CSS Site](http://learnlayout.com/)
 
 **OPTIONAL READINGS**
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).

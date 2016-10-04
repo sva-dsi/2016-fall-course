@@ -405,7 +405,7 @@ Example:
 
 List your "3 things" in a gist, as you do each week for your assignments.
 
-Try using these practice files, and modifying them to create your own visualization with [RAW](http://app.raw.densitydesign.org/). Attach those files (index.html, and styles, if any) to your gist.
+Try using [these practice files](http://bl.ocks.org/auremoser/2302e34cf80b55123564f96c351a3146), and modifying them to create your own visualization with [RAW](http://app.raw.densitydesign.org/). Attach those files (index.html, and styles, if any) to your gist.
 
 
 ##10/11/16

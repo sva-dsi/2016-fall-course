@@ -362,14 +362,30 @@ Link to the datasets if they are available online, if not, explain how you inten
 
 * Ben Fry, [_Isometric Blocks_](http://benfry.com/isometricblocks/)
 
-This week kicks off our visualization series, we'll be exploring Processing, and creative languages for data visualization.
+This week kicks off our visualization series, we'll be exploring more HTML/CSS and some prototyping tools. And you'll also be able to play with Processing among other creative languages for data visualization.
+
+Reminder, you can volunteer to attend [Visualized 2016](https://docs.google.com/forms/d/e/1FAIpQLSf4n1RWeITjfD5tbdsOKj07yRID6EPFngMQRKq9OIChN-vfFw/viewform?c=0&w=1&mc_cid=b5287635fe&mc_eid=05d590abdb) at Parsons on Thursday!
 
 ####READINGS:
+* Today's Slides: 
+	* [Web HTML](https://auremoser.github.io/web-html/#/)
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
 * [Open Processing](http://openprocessing.org/)
 * Processing.org, [Learning Tutorials](https://processing.org/tutorials/)
 
 ####PRACTICE:
+
+Choose your own adventure:
+
+**1.** 
+Continue practicing HTML/CSS with the practice sites previously linked:
+
+* [Learn X in Y Minutes](https://learnxinyminutes.com/)
+* [HTML Site](http://webdive.ktam.org/web/basics)
+* [CSS Site](http://learnlayout.com/)
+
+**2.**
+Try practicing some code with Processing, another language for visualizations:
 
 Review the [Processing Hour Of Code](http://hello.processing.org/editor/) exercise (1 hr long), don't feel compelled to spend the whole hour, just skim the video for the components of processing that interest you.
 
@@ -380,6 +396,16 @@ Other resources that might be useful to you:
 * [Coding Rainbow](http://codingrainbow.com/)
 
 ####ASSIGNMENT:
+
+Finish your comparison of the [Practice Files](https://github.com/auremoser/web-html/tree/master/practice/practice) and the [Completed Files](https://github.com/auremoser/web-html/tree/master/practice/completed) from last week's course, find **at least 3 things** that are different between the practice and completed files, and tell me what they do to the resulting website.
+
+Example:
+
+> In the pracice files, there are no stylesheets linked in the `index.html`, whereas in the completed files there are two stylesheets, `styles.css` and `reset.css`. Tell me what the addition of these files does for the resulting website?
+
+List your "3 things" in a gist, as you do each week for your assignments.
+
+Try using these practice files, and modifying them to create your own visualization with [RAW](http://app.raw.densitydesign.org/). Attach those files (index.html, and styles, if any) to your gist.
 
 
 ##10/11/16

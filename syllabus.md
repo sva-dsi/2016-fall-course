@@ -385,12 +385,12 @@ Continue practicing HTML/CSS with the practice sites previously linked:
 * [CSS Site](http://learnlayout.com/)
 
 **2.**
-Try practicing some code with Processing, another language for visualizations:
+Try practicing some code with Processing or Visdown, other languages for visualizations:
 
 Review the [Processing Hour Of Code](http://hello.processing.org/editor/) exercise (1 hr long), don't feel compelled to spend the whole hour, just skim the video for the components of processing that interest you.
 
 Other resources that might be useful to you:
-
+* [Visdown](http://visdown.amitkaps.com/)
 * [P5 JS lessons](https://github.com/processing/p5.js/wiki/Education)
 * [Introduction to P5 JS](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 * [Coding Rainbow](http://codingrainbow.com/)

@@ -369,6 +369,7 @@ Reminder, you can volunteer to attend [Visualized 2016](https://docs.google.com/
 ####READINGS:
 * Today's Slides: 
 	* [Web HTML](https://auremoser.github.io/web-html/#/)
+	* [Web JS](https://auremoser.github.io/web-intro-js)
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
 * [Open Processing](http://openprocessing.org/)
 * Processing.org, [Learning Tutorials](https://processing.org/tutorials/)

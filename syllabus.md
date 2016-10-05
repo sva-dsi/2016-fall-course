@@ -373,6 +373,7 @@ Reminder, you can volunteer to attend [Visualized 2016](https://docs.google.com/
 * Dormehl, L., [_The 5 Best Libraries for Data Visualization_](http://www.fastcompany.com/3029760/the-five-best-libraries-for-building-data-vizualizations)
 * [Open Processing](http://openprocessing.org/)
 * Processing.org, [Learning Tutorials](https://processing.org/tutorials/)
+* [_Best Practices for Data Visualizations and Interactives_](https://github.com/wbkd/awesome-interactive-journalism)
 
 ####PRACTICE:
 

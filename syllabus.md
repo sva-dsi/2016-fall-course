@@ -439,7 +439,7 @@ He's worked on interactive projects like:
 * Today's Slides: 
 	* [Signup link for Carto](https://carto.com/signup?plan=academy)
 	* [Mapping Workshop](https://gist.github.com/ohasselblad/a21a6d59d9b6525d182bcb4aa9d07843)
-	* [Web JS](https://auremoser.github.io/web-intro-js)
+	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
 * Madrigal, A., [_How Google Builds Its Maps – and What It Means for the Future of Everything_](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) The Atlantic (September 5, 2012).

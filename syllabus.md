@@ -475,7 +475,6 @@ If that seems overwhelming, try to follow these tutorials instead:
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
 5. Use your practice exercise to defend your pitch with a prototype.
 
-Consider [this interactive](http://www.jonathanlaliberte.com/2012/04/26/idonethis-applescript/) and how you would construct a pitch for the narrative there. Think about that when you write your pitch.
 
 ##10/18/16
 

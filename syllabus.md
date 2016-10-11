@@ -436,6 +436,11 @@ He's worked on interactive projects like:
 * [_Crankshaft_](https://github.com/CartoDB/crankshaft)
 
 ####READINGS
+* Today's Slides: 
+	* [Signup link for Carto](https://carto.com/signup?plan=academy)
+	* [Mapping Workshop](https://gist.github.com/ohasselblad/a21a6d59d9b6525d182bcb4aa9d07843)
+	* [Web JS](https://auremoser.github.io/web-intro-js)
+
 * Larson, J., [_Anatomy of a News Map_](https://www.propublica.org/nerds/item/anatomy-of-a-news-map).
 * Madrigal, A., [_How Google Builds Its Maps – and What It Means for the Future of Everything_](http://www.theatlantic.com/technology/archive/2012/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-everything/261913/) The Atlantic (September 5, 2012).
 * Tolochko, R., [_Introduction to the Geo-command line_](https://developmentseed.org/blog/2015/08/27/geo-command-line-introduction/).

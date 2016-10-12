@@ -438,6 +438,7 @@ He's worked on interactive projects like:
 ####READINGS
 * Today's Slides: 
 	* [Signup link for Carto](https://carto.com/signup?plan=academy)
+	* [Mapping Basics](https://gist.github.com/auremoser/da1b8fe8de23fe6365923b1a4d8f7b7d)
 	* [Mapping Workshop](https://gist.github.com/ohasselblad/a21a6d59d9b6525d182bcb4aa9d07843)
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 

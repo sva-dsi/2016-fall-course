@@ -516,7 +516,7 @@ He's worked on interactive projects like:
 
 Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
 
-Here is [an example using C3.JS for a time-sereis line chart](http://bl.ocks.org/auremoser/0d84614ac07aaa47e803). If you feel like this is more relevant to your dataset, you can use that template too.
+Here is [an example using C3.JS for a time-series line chart](http://bl.ocks.org/auremoser/0d84614ac07aaa47e803). If you feel like this is more relevant to your dataset, you can use that template too.
 
 ####ASSIGNMENT
 1. Find some time-series or statistical data. 

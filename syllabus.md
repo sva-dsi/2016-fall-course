@@ -503,6 +503,9 @@ He's worked on interactive projects like:
 * [_The Refugee Project_](http://www.therefugeeproject.org/)
 
 ####READINGS:
+* Today's Slides: 
+	* [Time Series Workshop](https://gist.github.com/auremoser/5d47641f386d4f2662f28b1a9d9583f4)
+	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
 * Bladt, J. and B. Filbin, [_Data Scientists' real job: storytelling_](https://hbr.org/2013/03/a-data-scientists-real-job-sto).
 * Carr, D., [_At the front lines, bearing witness in real time_](http://www.nytimes.com/2014/07/28/business/media/at-front-lines-bearing-witness-in-real-time.html?module=Search&mabReward=relbias%3Ar%2C%7B%221%22%3A%22RI%3A8%22%7D).
 * Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
@@ -513,7 +516,7 @@ He's worked on interactive projects like:
 
 Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
 
-Here is [an example using C3.JS for a categorical bar chart](http://bl.ocks.org/auremoser/6236a61e5383ab0bc71d). If you feel like this is more relevant to your dataset, you can use that template too.
+Here is [an example using C3.JS for a time-sereis line chart](http://bl.ocks.org/auremoser/0d84614ac07aaa47e803). If you feel like this is more relevant to your dataset, you can use that template too.
 
 ####ASSIGNMENT
 1. Find some time-series or statistical data. 

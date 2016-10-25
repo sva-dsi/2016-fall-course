@@ -555,8 +555,8 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 ####READINGS
 * Today's Slides:
-	* [Francis' presentation](http://frnsys.com/talks/sva/
-)
+	* [Francis' presentation](http://frnsys.com/talks/sva/)
+	* [Test Timeseries - Visualization Code](https://github.com/auremoser/test-timeseries/)
 * Tamassia, R., [_Handbook of graph drawing and visualization_](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 

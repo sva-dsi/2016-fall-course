@@ -554,6 +554,9 @@ Here's [a sample visualization that uses Gexf to visualize graffiti artists](htt
 Try to build a prototype with one of these libraries/tools to support your assignment pitch.
 
 ####READINGS
+* Today's Slides:
+	* [Francis' presentation](http://frnsys.com/talks/sva/
+)
 * Tamassia, R., [_Handbook of graph drawing and visualization_](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 

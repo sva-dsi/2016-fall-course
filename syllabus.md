@@ -558,6 +558,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 	* [Francis' presentation](http://frnsys.com/talks/sva/)
 	* [Test Timeseries - Visualization Code](https://github.com/auremoser/test-timeseries/)
 	* [Template for Highcharts](http://bl.ocks.org/auremoser/ea8c64ea443c674a6a25b444372844c9)
+	* [Graph Slides](https://gist.github.com/auremoser/e39c800ea5673723d8ea6468a12f5404#file-graph-md)
 * Tamassia, R., [_Handbook of graph drawing and visualization_](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 

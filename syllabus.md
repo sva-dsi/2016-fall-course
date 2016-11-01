@@ -584,6 +584,10 @@ Color and mood are important to visualizations and the general legibility of you
 * Harris, J., [_I love your work_](http://iloveyourwork.net/).
 
 ####READINGS:
+* Today's Slides:
+	* [Color Lesson](https://gist.github.com/auremoser/2c3ee2fd8ba4c7c3989eadb5d092e2ad)
+	* [Web JS - 2](https://auremoser.github.io/web-intro-js/class2.html#/)
+
 * Huval, R., [_The Color of Disruption_](http://www.theawl.com/2015/08/weirdly-its-almost-the-same-color-as-money).
 * Kemery, A., [_StoryBoarding your data visualizations_](http://annkemery.com/storyboarding).
 * Lin, M., [_A color palette optimized for data visualization_](http://www.mulinblog.com/a-color-palette-optimized-for-data-visualization/).

@@ -1,16 +1,20 @@
-## Intro to Color
-###Parsons: Journalism + Design
-###[Web Coding for Interactive Design](https://github.com/auremoser/web-coding)
-**[October 21th, 2015](http://areweinthefutureyet.com/)**
+## Intro to Color + Style
+###SVA-DSI
+###[Metrics and Data Visualiation I](https://github.com/sva-dsi/2016-fall-course/blob/master/syllabus.md#110116)
+**November 1st, 2016**
 
 ![Whale Hunt](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/whale.jpg)
 
-* Harris, J., [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
-* Harris, J., [_I love your work_](http://iloveyourwork.net/).
+*Harris, J., [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).*
+
+*Harris, J., [_I love your work_](http://iloveyourwork.net/).*
 
 Find this document here:
 
-* Gist: <http://tinyurl.com/lang-color>
+* Gist: <http://tinyurl.com/dsi-color>
+
+
+##Outline
 
 1. Color Basics
 	+ Intro to color thinking
@@ -157,7 +161,6 @@ An extension for various browsers that allows you to pick colors from a page or 
 A trendy palette with color values generated in the Hex, RBG, and RGBA (for "alpha blending" often translated as "opacity") scale.
 
 ![flat](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/color/flat.jpg)
-
 
 #### Creating Style Guides
 

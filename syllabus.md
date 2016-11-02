@@ -594,7 +594,7 @@ Color and mood are important to visualizations and the general legibility of you
 
 **OPTIONAL READINGS**:
 
-* Kowitz, B., [_Why good storytelling helps you design great projects_]https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products/).
+* Kowitz, B., [_Why good storytelling helps you design great projects_](https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products/).
 
 ####ASSIGNMENT
 Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks.

@@ -617,9 +617,14 @@ Choosing a way to display your data is a non-trivial operation, and using the pa
 **Interactive to Inspire**: 
 
 * Quigly, S., [UC Campus Expenditures Interactive Dashboard](http://saraquigley.github.io/uc-trends/).
-	* Using [DC.JS](http://dc-js.github.io/dc.js/).
+	* Using [DC.JS](http://dc-js.github.io/dc.js/)
 
 ####READINGS
+* Today's Slides:
+	* [SVG Primer](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+	* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
+	* [Web JS - 3](https://auremoser.github.io/web-intro-js/class3.html#/)
+
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
 * Salkever, A., [_How to Choose the Right Visualization_](http://blog.import.io/post/how-to-choose-the-right-visualization-for-your-data).
 

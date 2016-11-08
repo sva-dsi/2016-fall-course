@@ -618,6 +618,7 @@ Choosing a way to display your data is a non-trivial operation, and using the pa
 
 * Quigly, S., [UC Campus Expenditures Interactive Dashboard](http://saraquigley.github.io/uc-trends/).
 	* Using [DC.JS](http://dc-js.github.io/dc.js/)
+* [538 predictive election viz](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
 
 ####READINGS
 * Today's Slides:

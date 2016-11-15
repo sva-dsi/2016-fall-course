@@ -660,6 +660,7 @@ This week we'll talk about creative approaches to building narrative and new met
 * Bajak, A., [_How to learn responsive web design by coding your own news article_](http://www.storybench.org/code-simple-responsive-webpage-standalone-article/).
 * Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
 	* Using [_Pulp: An AJAM Project_](https://github.com/ajam/pulp).
+* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
 * Case, N. + Hart, V., [_Parable of the Polygons_](http://ncase.me/polygons/).
 * Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
 

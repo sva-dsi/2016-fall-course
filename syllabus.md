@@ -656,7 +656,6 @@ This week we'll talk about creative approaches to building narrative and new met
 
 ####READINGS
 
-* Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).
 * Honan, M., [_Inside the buzz-fueled media startups battling for your attention_](http://www.wired.com/2014/12/new-media-2/).
 * Bajak, A., [_How to learn responsive web design by coding your own news article_](http://www.storybench.org/code-simple-responsive-webpage-standalone-article/).
 * Keller, M., [_Comics: Terms of Service_](http://projects.aljazeera.com/2014/terms-of-service/#1).
@@ -723,6 +722,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 * NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
 
 ####READINGS
+* Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).
 * Carr, D., [_Magazine writing on the web, for film_](http://www.nytimes.com/2013/08/12/business/media/magazine-writing-on-the-web-for-film.html?pagewanted=all&_r=0).
 * Haile, T., [_What you think you know about the web is wrong_](http://time.com/12933/what-you-think-you-know-about-the-web-is-wrong/).
 * Klein, E. et al., [_Mantra: "We'll always be a work in progress"_](http://www.vox.com/2014/3/30/5555690/welcome-to-vox).

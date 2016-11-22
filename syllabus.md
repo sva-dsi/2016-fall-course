@@ -696,6 +696,8 @@ This week we'll go over how to process reactions to your work, and how to bullet
 * Popular Science, [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), (8/18/15).
 
 ####READINGS
+* Slides for this week:
+	* [Mozilla's Open Data Training Curriculum](https://github.com/mozillascience/open-data-training)
 
 * Konnikova, M., [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you).
 * Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).

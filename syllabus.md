@@ -705,7 +705,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 * Lab Time: 
 	* [Self-Paced Intro to JQuery](http://www.teaching-materials.org/jquery-selfpaced/)
 	* [Code Academy's Intro to JS Course](https://www.codecademy.com/learn/javascript)
-	* [Khan Academy's Intor to JS Course](https://www.khanacademy.org/computing/computer-programming/programming)
+	* [Khan Academy's Intro to JS Course](https://www.khanacademy.org/computing/computer-programming/programming)
 	* [Intro to DOM manipulation](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
 

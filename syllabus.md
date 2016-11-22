@@ -698,6 +698,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 ####READINGS
 * Slides for this week:
 	* [Mozilla's Open Data Training Curriculum](https://github.com/mozillascience/open-data-training)
+	* [Self-Paced Intro to JQuery](http://www.teaching-materials.org/jquery-selfpaced/)
 
 * Konnikova, M., [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you).
 * Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).

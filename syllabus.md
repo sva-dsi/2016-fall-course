@@ -694,11 +694,19 @@ This week we'll go over how to process reactions to your work, and how to bullet
 **Interactive to Inspire**: 
 
 * Popular Science, [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), (8/18/15).
+* Giorgia Lupi + Accurat, [_Visual History of Nobel Prizes](https://www.brainpickings.org/2012/11/29/giorgia-lupi-noble-prizes-visualization/)
 
 ####READINGS
 * Slides for this week:
 	* [Mozilla's Open Data Training Curriculum](https://github.com/mozillascience/open-data-training)
+	* [Web D3](https://github.com/sva-dsi/web-d3)
+	* [DOM Access](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
+* Lab Time: 
 	* [Self-Paced Intro to JQuery](http://www.teaching-materials.org/jquery-selfpaced/)
+	* [Code Academy's Intro to JS Course](https://www.codecademy.com/learn/javascript)
+	* [Khan Academy's Intor to JS Course](https://www.khanacademy.org/computing/computer-programming/programming)
+	* [Intro to DOM manipulation](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+
 
 * Konnikova, M., [_What Makes a Story Go Viral?_](http://www.newyorker.com/tech/elements/the-six-things-that-make-stories-go-viral-will-amaze-and-maybe-infuriate-you).
 * Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).

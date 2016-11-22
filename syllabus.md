@@ -694,7 +694,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 **Interactive to Inspire**: 
 
 * Popular Science, [_Interesting Nobels_](http://www.popsci.com/ig-nobels-have-been-honoring-sciences-funniest-research-25-years-interactive), (8/18/15).
-* Giorgia Lupi + Accurat, [_Visual History of Nobel Prizes](https://www.brainpickings.org/2012/11/29/giorgia-lupi-noble-prizes-visualization/)
+* Giorgia Lupi + Accurat, [_Visual History of Nobel Prizes_](https://www.brainpickings.org/2012/11/29/giorgia-lupi-noble-prizes-visualization/)
 
 ####READINGS
 * Slides for this week:

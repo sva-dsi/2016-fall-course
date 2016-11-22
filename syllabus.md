@@ -712,7 +712,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 * Medium, [_What is Impactful? Or statistics at the service of stories_](https://medium.com/@Medium/statistics-2971adaa615).
 * Reynolds, G. [_The secret of storytelling is in the editing_](http://www.presentationzen.com/presentationzen/2013/01/the-secret-to-success-is-in-the-editing.html).
 * Schepers, A., [_Bordering on Factual: Fact Check Before Sharing_](http://schepers.cc/bordering-on-factual).
-* [_WordSafety](http://wordsafety.com/).
+* [_WordSafety_](http://wordsafety.com/).
 
 **OPTIONAL READINGS**: 
 

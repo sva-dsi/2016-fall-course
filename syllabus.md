@@ -702,6 +702,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 	* [Mozilla's Open Data Training Curriculum](https://github.com/mozillascience/open-data-training)
 	* [Web D3](https://github.com/sva-dsi/web-d3)
 	* [DOM Access](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
+	* [Signup for Lab time](https://docs.google.com/spreadsheets/d/1DsB9dtpzrhxgqqYkqwYgXspwBpFMQL3DkkhoAWHfJDQ/edit?usp=sharing)
 * Lab Time: 
 	* [Self-Paced Intro to JQuery](http://www.teaching-materials.org/jquery-selfpaced/)
 	* [Code Academy's Intro to JS Course](https://www.codecademy.com/learn/javascript)

@@ -741,7 +741,9 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 ####READINGS
 * Slides: 
 	* [Web D3](https://github.com/sva-dsi/web-d3)
-	* [DOM Access](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
+		* [DOM Access Exercise](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
+	* [Intro to Graphics](http://www.teaching-materials.org/graphics/)
+		* [SVG Exercise](http://bl.ocks.org/auremoser/6a5a334418e834ec2ba9503553444342)
 	* [Signup for Lab time](https://docs.google.com/spreadsheets/d/1DsB9dtpzrhxgqqYkqwYgXspwBpFMQL3DkkhoAWHfJDQ/edit?usp=sharing)
 
 * Ford, P., [_10 Timeframes_](http://contentsmagazine.com/articles/10-timeframes/).

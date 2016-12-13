@@ -760,7 +760,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 
 
 ####ASSIGNMENT
-Continue with working on your final projects.
+Continue with working on your final projects, you can make something from [this template for example](https://auremoser.github.io/final-exam/).
  
 * publishing your project and code on github
 * post the interactive demo on `gh-pages`
@@ -802,7 +802,7 @@ Final Project Guide: <https://gist.github.com/auremoser/6cdf8d61bb3bcbba7606>
 
 We will spend the first minutes of class going over your project pitches, please send me your current assignment/latest project draft **before** class, and prepare a 3-5 minute presentation of your project, describing why you chose it, what resulted from your efforts and what you would like to do with the project moving forward.
 
-But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 26th); ie. no late grades accepted.
+But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 21st); ie. no late grades accepted.
 
 ##12/13/16
 
@@ -810,6 +810,10 @@ But in general, this project is a big deal! The final project is a substantial p
 
 ![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
+####READING
+
+* Learn More:
+	* [Bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md)
 
 #SERVICES + RESOURCES
 

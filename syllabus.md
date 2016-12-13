@@ -810,8 +810,6 @@ But in general, this project is a big deal! The final project is a substantial p
 
 ![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
-####READING
-
 ![](https://raw.githubusercontent.com/sva-dsi/2016-fall-course/master/imgs/babel.png)
 
 * [Library of Babel Bot](http://apps.npr.org/commencement/).

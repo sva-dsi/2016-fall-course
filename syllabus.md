@@ -811,7 +811,7 @@ But in general, this project is a big deal! The final project is a substantial p
 
 ![](https://raw.githubusercontent.com/sva-dsi/2016-fall-course/master/imgs/babel.png)
 
-[Library of Babel Bot](http://apps.npr.org/commencement/).
+[Library of Babel Bot](https://libraryofbabel.info/).
 
 * Learn More:
 	* [Bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md)

@@ -808,11 +808,10 @@ But in general, this project is a big deal! The final project is a substantial p
 
 ####PRESENTATIONS AND DEMOS
 
-![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
 ![](https://raw.githubusercontent.com/sva-dsi/2016-fall-course/master/imgs/babel.png)
 
-* [Library of Babel Bot](http://apps.npr.org/commencement/).
+[Library of Babel Bot](http://apps.npr.org/commencement/).
 
 * Learn More:
 	* [Bibliography](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md)
@@ -820,6 +819,8 @@ But in general, this project is a big deal! The final project is a substantial p
 	* Dealing with Data: [Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)
 	* Using platforms and media: [Census Americans](https://twitter.com/censusAmericans)
 		* [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)
+
+![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
 #SERVICES + RESOURCES
 

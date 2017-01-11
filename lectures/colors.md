@@ -191,3 +191,4 @@ We are not going to do anything that complicated. I just want you to have an ide
 7. [Sequential Color Theme Map for Choropleths](http://blog.webkid.io/3d-maps-with-osmbuildings/)
 8. Rune.js - a project developed out of the ITP program and ["Printing Code"](http://printingcode.runemadsen.com/), another course you should totally check out!
 9. [Picking Color Palettes: A Guide](https://medium.com/graphiq-engineering/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.pntzfz5tc)
+10. [D3: How to pick colors for your data visualization](https://learningd3.com/blog/how-to-pick-colors-for-your-data-visualization/)

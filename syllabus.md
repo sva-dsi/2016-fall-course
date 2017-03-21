@@ -551,7 +551,7 @@ Peruse the examples available using these libraries online, or try [Gephi](http:
 
 Here's [a sample visualization that uses Gexf to visualize graffiti artists](https://github.com/auremoser/graphitiNEt) and their formal art influences, color-coded by country of origin. 
 
-Try to build a prototype with one of these libraries/tools to support your assignment pitch.
+Try to build a prototype with one of these libraries/tools to support your assignment pitch. Check out network tracking tools like [Kumu](https://kumu.io/) too!
 
 #### READINGS
 * Today's Slides:

@@ -3,26 +3,26 @@ Metrics + Data Visualization I - SVA-DSI
 
 ![gallery](http://i.imgur.com/JgTstrz.png)
 
-#SYLLABUS
+# SYLLABUS
 
 Find this resource here:
 <https://mzl.la/sva-vis-1>
 
-###COURSE LOGISTICS:
+### COURSE LOGISTICS:
 	SVA
 	Sept. 6th - Dec 13th
 	Tuesdays 6-9:00PM
 
 Here is the [course listing](http://dsi.sva.edu/course/metrics-and-data-visualization-i/).
 
-###INSTRUCTOR:
+### INSTRUCTOR:
 	Aurelia Moser
 	@auremoser
 	
-###OFFICE HOURS: 
+### OFFICE HOURS: 
 Fridays 5-6PM, by appointment via gcal - send to aurelia@mozillafoundation.org
 
-###DESCRIPTION
+### DESCRIPTION
 
 Data visualizations increasingly shape the way we process the success of initiatives, and the expectations for activism and innovation globally. How might you evaluate the success or impact of a program? What skills should you hone to communicate your projects and progress to a new audience? How can technology hone critical thinking and problem framing for a particular area of social need and interest? 
 
@@ -30,10 +30,10 @@ This course will introduce web development for data visualization, including an 
 
 The goal of the course is to compliment student's existing coursework and interests with some basic visualization skills, by course completion, helping them design, build, and deploy a data-driven interactive on a topic related to their work. Students will workshop an interactive of their own design throughout the course, punctuated by smaller exercises and lecture pairings on the topics of HTML5/CSS3, Javascript and contemporary development in open source and non-profit tech.
 
-###OBJECTIVE + LEARNING OUTCOMES
+### OBJECTIVE + LEARNING OUTCOMES
 Being successful in programming or social change initiatives involves producing under deadline. Funders, employers, collaborators, and patrons of your products will expect that you work efficiently. This course is modeled for your future success, and so deadlines will be applied to keep time with a professional pace. The final project for the course, and primary graded assignment, will depend on an agglutinative series of tasks designed to help you learn and think critically throughout the semester. 
 
-####LEARNING OUTCOMES:
+#### LEARNING OUTCOMES:
 
 1. how to assess, manipulate, and analyze  data
 2. how to bulletproof your data
@@ -42,7 +42,7 @@ Being successful in programming or social change initiatives involves producing 
 5. the basics of building interactive graphics: html/css/js/processing
 6. the value of publishing and self-publishing 
 
-####GRADE CALCULATION:
+#### GRADE CALCULATION:
 Here is a basic breakdown of graded tasks along that trajectory:
 
 * 10% Attendance/Participation
@@ -54,7 +54,7 @@ TOTAL: 100%
 
 It is understood that coding is tough and you may be new to this, you will be graded on your progress throughout the class, your ability to complete assignments on time, your interaction with peer reviewers, and your ability to justify your decisions thoughtfully.
 
-###MATERIALS
+### MATERIALS
 Coding is an art; you will have a series of art supplies for this course that will all be free unless otherwise noted, but will require some non-trivial investment on your part to set-up. I'm available to help if you need it.
 
 **SET-UP ACCOUNT**
@@ -72,7 +72,7 @@ Coding is an art; you will have a series of art supplies for this course that wi
 
 * Setting up a Server - [Python Simple Server](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/)
 
-###COURSE POLICIES
+### COURSE POLICIES
 
 **PARTNER POLICY**
 
@@ -122,11 +122,11 @@ Readings are assigned to correspond with that week's assignment and class lesson
 You can find the [FULL BIBLIOGRAPHY](https://github.com/sva-dsi/2016-fall-course/blob/master/bibliography.md) in the repository for this course.
 
 
-#CLASS CALENDAR
+# CLASS CALENDAR
 This course is 15 weeks long. Dates are based on the [academic calendar](http://www.sva.edu/events/academic) for SVA.
 
-##9/06/16
-####INTRO TO INTERACTIVES
+## 9/06/16
+#### INTRO TO INTERACTIVES
 >"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice." ~ S. Few
 
 What is an interactive application, a data visualization, and what is this course about? We'll talk about instances of success and failure in apps, review some basics of this course and take care of some technical logistics related to Github, version control, and the basics of web literacy.
@@ -137,12 +137,12 @@ What is an interactive application, a data visualization, and what is this cours
 
 * WSJ Graphics, [_Infectious Diseases and Vaccines_](http://graphics.wsj.com/infectious-diseases-and-vaccines/).
 
-####READINGS:
+#### READINGS:
 * [Today's Slides: Web Concepts](https://auremoser.github.io/web-concepts/#/14)
 * Darnton, R., [_Writing and telling stories_](http://dash.harvard.edu/bitstream/handle/1/3403047/darnton_news.pdf?sequence=2).
 * Journalism Tools, [_How they did it_](https://medium.com/@Journalism2ls/how-they-did-it-1b2a9baf666a).
 
-####PRACTICE:
+#### PRACTICE:
 * Setup your [Github](https://github.com/) accounts
 * [The Basics of Markdown Syntax, Daring Fireball](http://daringfireball.net/projects/markdown/basics)
 * [CLI Handbook](http://cli.learncodethehardway.org/book/)
@@ -154,16 +154,16 @@ What is an interactive application, a data visualization, and what is this cours
 
 We will go over this process, but you should practice some of the terminal commands and markdown syntax so that you feel comfortable on your own machines. We'll go over it next week.
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Find an interactive that you appreciate, prefereably (but not obligatorily) one that addresses a social issue of interest to you. Write 2 paragraphs about why you chose it, what it is about, how the interactive/online medium chosen was particularly conducive to the narrative (or wasn't). Finally, explain how it was built, do some research to define what programming language it was written in; what was its creation story (if you can find it)?
 
 It could be something like an [NPR multimedia piece](http://apps.npr.org/lookatthis/posts/publichousing/), as complex as a [ProPublica graphic](http://projects.propublica.org/louisiana/), as iconic as [Snowfall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek), as riveting as a [graphic novel](http://zombies.epicmagazine.com/story/5937), or as arty as [this exhibit of themed photos](http://www.themorningnews.org/gallery/people-of-the-sun), but the effort to understand and document it should be the same. Extra points for finding something not on the list above, or review something in the [13pt Graphics list](http://13pt.com/graphics/), a grouping assembled by the NYTimes.
 
 Remember, you can view a template of what your assignment format herein this [gist](https://gist.github.com/auremoser/9dcfac8163e7737e7b5f).
 
-##9/13/16
+## 9/13/16
 
-####NEW PLATFOR[U]MS: HOSTING FOR INTERACTIVES
+#### NEW PLATFOR[U]MS: HOSTING FOR INTERACTIVES
 
 >"Visualizations act as a campfire around which we gather to tell stories." ~ A. Shalloway
 
@@ -174,7 +174,7 @@ This week we'll here from an interactive developer working in a newsroom in NYC;
 The Guardian, [_Are you reflected in the new Congress](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented).
 
 
-####[Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
+#### [Nadja Popovich](http://www.theguardian.com/profile/nadja-popovich), The Guardian US
 
 Nadja is an interactive journalist at the Guardian U.S.
 
@@ -184,13 +184,13 @@ She's worked on interactive projects like:
 * [_Watch how the measles outbreak spread..._](http://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated)
 * [_Are you reflected in the new Congress?_](http://www.theguardian.com/us-news/ng-interactive/2014/nov/06/-sp-congress-diversity-women-race-lgbt-are-you-represented)
 
-####READINGS
+#### READINGS
 * [Today's Slides: Web Github](https://auremoser.github.io/web-github/)
 * Few, S., [_Data art vs. data visualization_](http://www.perceptualedge.com/blog/?p=1245).
 * Koc, E., [_Interactive storytelling at the New York Times_](http://futurenytimes.org/reviews/interactive-storytelling/).
 * Slobin, S., [_Examples of data journalism_](http://datajournalismhandbook.org/1.0/en/introduction_3.html).
 
-####PRACTICE
+#### PRACTICE
 Continue to practice your fluency in Github commands with this online interactive tutorial.
 
 * [Code School Interactive Git Tutorial](https://try.github.io/levels/1/challenges/1).
@@ -206,7 +206,7 @@ Here are some other resources for Github learning:
 * [Github Student Developer Pack](https://education.github.com/pack)
 
 
-####ASSIGNMENT
+#### ASSIGNMENT
 The following interactive projects deal with data about drones. Think about who handled it (that is, the topic) better:
 
 * Motherboard: <http://motherboard.vice.com/read/faa-drone-fines>
@@ -219,9 +219,9 @@ Why was the one you chose superior? How? What aspects are more or less compellin
 
 Consider the pieces and work shown by the guest lecturer, highlight some aspect of their work that seemed very difficult to you and find some resources online detailing how you would develop skills to support what you find difficult. Maybe they have to code, maybe they have to write tests or evaluate the user experience of their project, maybe they have to make high quality mockups in Illustrator. Pick something they describe that you don't understand and find ways to learn about it so you might be better prepared to deal with that in the workplace. Then write a paragraph about how you would develop this skill, what resource you would use.
 
-##9/20/16
+## 9/20/16
 
-####MARK-UP/DOWN: SELF-PUBLISHING INTERACTIVE PROJECTS
+#### MARK-UP/DOWN: SELF-PUBLISHING INTERACTIVE PROJECTS
 
 >"I just wanted to share my view on the distinction I personally make between the two main types of visualization function: exploratory and explanatory" ~ A. Kirk
 
@@ -235,13 +235,13 @@ We'll talk about ways you can publish your work, and practice a few different me
 
 * Rogers, S., [_Ramadan in Tweets with Odyssey.JS_](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/).
 
-####[Rachel Berry](https://github.com/cmrberry), Github
+#### [Rachel Berry](https://github.com/cmrberry), Github
 
 Rachel is an Analytics Engineer at Github.
 
 She'll be talking about how to use Github to publish, host and render your code.
 
-####READING
+#### READING
 * Today's Slides: 
 	* [Web Github](https://auremoser.github.io/web-github/)
 	* [Web HTML](https://auremoser.github.io/web-html/#/)
@@ -255,7 +255,7 @@ She'll be talking about how to use Github to publish, host and render your code.
 * Kirk, A., [_Storytelling and success stories_](http://www.visualisingdata.com/2013/04/discussion-storytelling-and-success-stories/).
 
 
-####PRACTICE
+#### PRACTICE
 Try to setup up a bl.ocks account based on your gists (the first few assignments for this course should suffice). Bl.ocks accounts like [mine](http://bl.ocks.org/auremoser) are based on gists, so you're already on your way to having an online interactive portfolio, yay! You can see blocks in action in today's Interactive to Inspire above, which links to the [raw version of the interactive](http://bl.ocks.org/anonymous/raw/2f1e9a5a74ceeb88e977/) as well as [the code](http://bl.ocks.org/anonymous/2f1e9a5a74ceeb88e977) (if you remove the `raw` in the URL).
 
 This syllabus is written in markdown. You can study how it's made by looking at the format and the rendered version. Click on `RAW` (a button) in the Github view to compare, copy the raw text into [Mou](http://25.io/mou/) and view the side-by-side comparison.
@@ -270,7 +270,7 @@ This syllabus is written in markdown. You can study how it's made by looking at 
 Optionally, you can also go over some of the basics of HTML/CSS and web pages with [this Khan Academy course](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro), it will take an hour max.
 
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Take a look at the following platforms for citizen journalism and community activism, consider the merits of each and choose one to profile. Explain in a few paragraphs why it appeals to you, what you might use it for, and describe how you tested it to confirm. Propose another method of self-publishing, inspiring change or soliciting grassroots opinion if you find none of these satisfactory, and explain why it seems superior.
 
 * [Reportedly](https://medium.com/reportedly/welcome-to-reported-ly-3363a5fb7ea5)
@@ -282,9 +282,9 @@ Consider the readings an try to incorporate some of the readings' content into y
 
 BONUS: link to your first bl.ock (see `practice` above). Write a sentence or two about how you might incorporate blocks into a larger narrative, or an interactive piece.
 
-##9/27/16
+## 9/27/16
 
-####DATA-DRIVEN DEVELOPMENT
+#### DATA-DRIVEN DEVELOPMENT
 
 >"Narrative can on the one hand be broken down into a set of universal laws and principles that may transcend mediums. Stories have temporality in common (they deal with time) as well as causation (they deal with cause and effect of something). On the other hand there are the more media specific narrative affordances as for example in the way that film, opera, novel and data visualisation – because of their physicality and the dimensions open to them – would be able to give a different ‘staging’ of a story." ~ C. Twigg
 
@@ -306,7 +306,7 @@ She's worked on interactive projects like:
 * [_Intel.IQ_](http://carolinesinders.com/#/inteliq/)
 * [_Read Your Tags_](http://carolinesinders.com/#/readyourtags/)
 
-####READINGS
+#### READINGS
 * Data Art Net, [_A Visual History of Data Visualization_](http://data-art.net/resources/history_of_vis.php).
 * Emery, A., [_The DataViz design process_](http://annkemery.com/dataviz-design-process/).
 * Harris, J., [_NYTimes: How the data sausage gets made_](https://source.opennews.org/en-US/learning/how-sausage-gets-made/).
@@ -330,12 +330,12 @@ The following are mostly for coding practice, feel free to use them to keep up w
 **OPTIONAL READINGS**
 * Twigg, C., [_Data communicators: where is innovation happening_](http://storiesthroughdata.blogs.lincoln.ac.uk/).
 
-####PRACTICE
+#### PRACTICE
 In prep for our study of maps and extra-journalism interactive platforms, evaluate the utility and validity of [Pattrn's projects](http://pattrn.co/), including [The Gaza Platform](https://gazaplatform.amnesty.org/), a partnership with Amnesty Intl. Another resource that might be helpful for dissecting visualizations is [Source](https://source.opennews.org/), a blog that dissects a lot of interactives for journalism articles, like this one on the Chicago [Police corruption investigation](https://source.opennews.org/en-US/articles/how-we-made-homan-square-portrait/).
 
 For coding practice, take a look at the [Completed](https://github.com/auremoser/web-html/tree/master/practice/completed) vs [Practice](https://github.com/auremoser/web-html/tree/master/practice/practice) files in this week's slides, and try to identify some differences that contribute to how different the visualizations look. Hint: look at the "stylesheets" or CSS files to see how they are different.
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Do some research, find a few stories that inspire you, or [some that don't](http://www.theguardian.com/news/datablog/gallery/2013/aug/01/16-useless-infographics?CMP=twt_gu). Think about what data they use to prove their assertions, or what datasets might help to bolster their arguments. 
 
 Consider if you could develop a visualization to support that topic, or study it further. Consider what open data sources you could use (see those listed in the readings above); consider what closed data sources you might try to solicit (check out this [Five Minute Field Guide](http://datajournalismhandbook.org/1.0/en/getting_data_0.html) to find data relevant to your idea).
@@ -350,9 +350,9 @@ Try to find one or two datasets that suit a narrative or argument you'd like to 
 
 Link to the datasets if they are available online, if not, explain how you intend to get those data over the course of the next few weeks.
 
-##10/04/16
+## 10/04/16
 
-####INTRO TO CREATIVE CODE + VISUALIZATIONS
+#### INTRO TO CREATIVE CODE + VISUALIZATIONS
 
 > "For people just starting out, I'd suggest starting either with Processing or D3. Both of them have a very large user base and a great number of examples you can learn from." ~ Jan Willem Tulp
 
@@ -366,7 +366,7 @@ This week kicks off our visualization series, we'll be exploring more HTML/CSS a
 
 Reminder, you can volunteer to attend [Visualized 2016](https://docs.google.com/forms/d/e/1FAIpQLSf4n1RWeITjfD5tbdsOKj07yRID6EPFngMQRKq9OIChN-vfFw/viewform?c=0&w=1&mc_cid=b5287635fe&mc_eid=05d590abdb) at Parsons on Thursday!
 
-####READINGS:
+#### READINGS:
 * Today's Slides: 
 	* [Web HTML](https://auremoser.github.io/web-html/#/)
 	* [Web JS](https://auremoser.github.io/web-intro-js)
@@ -375,7 +375,7 @@ Reminder, you can volunteer to attend [Visualized 2016](https://docs.google.com/
 * Processing.org, [Learning Tutorials](https://processing.org/tutorials/)
 * [_Best Practices for Data Visualizations and Interactives_](https://github.com/wbkd/awesome-interactive-journalism)
 
-####PRACTICE:
+#### PRACTICE:
 
 Choose your own adventure:
 
@@ -397,7 +397,7 @@ Other resources that might be useful to you:
 * [Introduction to P5 JS](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 * [Coding Rainbow](http://codingrainbow.com/)
 
-####ASSIGNMENT:
+#### ASSIGNMENT:
 
 Finish your comparison of the [Practice Files](https://github.com/auremoser/web-html/tree/master/practice/practice) and the [Completed Files](https://github.com/auremoser/web-html/tree/master/practice/completed) from last week's course, find **at least 3 things** that are different between the practice and completed files, and tell me what they do to the resulting website.
 
@@ -410,9 +410,9 @@ List your "3 things" in a gist, as you do each week for your assignments.
 Try using [these practice files](http://bl.ocks.org/auremoser/2302e34cf80b55123564f96c351a3146), and modifying them to create your own visualization with [RAW](http://app.raw.densitydesign.org/). Attach those files (index.html, and styles, if any) to your gist.
 
 
-##10/11/16
+## 10/11/16
 
-####(COUNTER)MAPS AND CARTOGRAPHICS
+#### (COUNTER)MAPS AND CARTOGRAPHICS
 
 >"It's turtles all the way down" ~ [Wikipedia](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
 
@@ -435,7 +435,7 @@ He's worked on interactive projects like:
 * [_Maps + Bl.ocks_](https://bl.ocks.org/ohasselblad)
 * [_Crankshaft_](https://github.com/CartoDB/crankshaft)
 
-####READINGS
+#### READINGS
 * Today's Slides: 
 	* [Signup link for Carto](https://carto.com/signup?plan=academy)
 	* [Mapping Basics](https://gist.github.com/auremoser/da1b8fe8de23fe6365923b1a4d8f7b7d)
@@ -454,7 +454,7 @@ He's worked on interactive projects like:
 * Hurt, A. et al., [_Disputed Territories_](http://opennews.kzhu.io/map-disputes/). [Github](https://github.com/alykat/map-disputes).
 * [Radical Cartography](http://radicalcartography.net/).
 
-####PRACTICE
+#### PRACTICE
 [Carto](https://carto.com/) is an online mapping platform and series of libraries/APIS that allows you to map geospatial data easiy in Javascript. 
 
 Here is [an example using Carto.JS for a Census tract visualization of water quantity](http://bl.ocks.org/auremoser/f27ed862a4aaf664c31f).
@@ -469,7 +469,7 @@ If that seems overwhelming, try to follow these tutorials instead:
 * **Map Academy**: [Online mapping for beginners](https://carto.com/academy/courses/beginners-course/)
 * **Map Academy**: [Carto.JS](https://carto.com/academy/courses/cartojs-ground-up/)
 
-####ASSIGNMENT
+#### ASSIGNMENT
 1. Find some geospatial data. 
 2. Think about the narrative that you might build around it.
 3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
@@ -477,9 +477,9 @@ If that seems overwhelming, try to follow these tutorials instead:
 5. Use your practice exercise to defend your pitch with a prototype.
 
 
-##10/18/16
+## 10/18/16
 
-####STATISTICS AND TIME-SERIES INTERACTIVES
+#### STATISTICS AND TIME-SERIES INTERACTIVES
 
 > "In short, we're tasked with transforming data into directives. Good analysis parses numerical outputs into an understanding of the organization. We "humanize" the data by turning raw numbers into a story about our performance." ~ J. Bladt + B. Filbin
 
@@ -502,7 +502,7 @@ He's worked on interactive projects like:
 * [_Wage Islands_](https://vimeo.com/138549946)
 * [_The Refugee Project_](http://www.therefugeeproject.org/)
 
-####READINGS:
+#### READINGS:
 * Today's Slides: 
 	* [Time Series Workshop](https://gist.github.com/auremoser/5d47641f386d4f2662f28b1a9d9583f4)
 	* [Web JS](https://auremoser.github.io/web-intro-js/class1.html#/)
@@ -511,22 +511,22 @@ He's worked on interactive projects like:
 * Dubakov, M., [_Visual Encoding_](http://www.targetprocess.com/articles/visual-encoding.html).
 * LaFleur, J., [_Guide to bulletproofing your data_](https://github.com/propublica/guides/blob/master/data-bulletproofing.md).
 
-####PRACTICE
+#### PRACTICE
 [C3.JS](http://c3js.org/) is a reusable chart library based on D3. Take a look at [the code for this Timeseries Chart](http://c3js.org/samples/timeseries.html) and think about how you could modify it to accommodate data of your choice.
 
 Try to do that and integrate your practice into the assignment below (add it to you bl.ocks account if you can!).
 
 Here is [an example using C3.JS for a time-series line chart](http://bl.ocks.org/auremoser/0d84614ac07aaa47e803). If you feel like this is more relevant to your dataset, you can use that template too.
 
-####ASSIGNMENT
+#### ASSIGNMENT
 1. Find some time-series or statistical data. 
 2. Think about the narrative that you might build around it. 
 3. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 4. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
 5. Use your practice exercise to defend your pitch with a prototype.
 
-##10/25/16
-####NETWORK AND GRAPH VISUALIZATIONS
+## 10/25/16
+#### NETWORK AND GRAPH VISUALIZATIONS
 
 This week we'll consider visualizations that illustrate spatial relationships between data points (nodes) via (edges). We'll play with a few tools and explore graph data or relationships worth teasing out of your chosen datasets. We'll feature a guest talk from Francis Tseng as well.
 
@@ -545,7 +545,7 @@ He's worked on interactive projects like:
 * [_The Founder_](http://thefounder.biz/)
 * [_ML 101_](https://github.com/frnsys/ml101)
 
-####PRACTICE
+#### PRACTICE
 There are various JS tools for building graph visualizations, [Sigma.js](http://sigmajs.org/) and [Arbor.js](http://arborjs.org/) among them. 
 Peruse the examples available using these libraries online, or try [Gephi](http://gephi.github.io/), a free desktop tool for visualization.
 
@@ -553,7 +553,7 @@ Here's [a sample visualization that uses Gexf to visualize graffiti artists](htt
 
 Try to build a prototype with one of these libraries/tools to support your assignment pitch.
 
-####READINGS
+#### READINGS
 * Today's Slides:
 	* [Francis' presentation](http://frnsys.com/talks/sva/)
 	* [Test Timeseries - Visualization Code](https://github.com/auremoser/test-timeseries/)
@@ -562,7 +562,7 @@ Try to build a prototype with one of these libraries/tools to support your assig
 * Tamassia, R., [_Handbook of graph drawing and visualization_](https://cs.brown.edu/~rt/gdhandbook/).
 * Tarawneh, R.M., et al., [_A general introduction to graph visualization techniques_](http://drops.dagstuhl.de/opus/volltexte/2012/3748/pdf/13.pdf).
 
-####ASSIGNMENT
+#### ASSIGNMENT
 1. Find some network/graph data or a collection of datasets that you think might compliment eachother, or might reveal something interesting in ensemble. 
 2. Write a pitch (< 3 ¶s) explaining your story and linking to the data. 
 3. Defend your pitch in a few short arguments, describing the format of your data, and what tools/languages you would use to explore and visualize it.
@@ -570,8 +570,8 @@ Try to build a prototype with one of these libraries/tools to support your assig
 
 Alternatively, for your assignment, you can try to make a Graph Visualization with sample data (say from Sigma.js's examples page, or from another graph example/library), or follow the [following tutorial](http://thinkingonthinking.com/Getting-Started-With-D3/), take notes on your experience and screenshots of your work along the way.
 
-##11/01/16
-####COLOR THEORY: ART, DESIGN, + PERCEPTION
+## 11/01/16
+#### COLOR THEORY: ART, DESIGN, + PERCEPTION
 >"It’s not uncommon for designers to confuse a beautiful looking product with one that works beautifully. A great technique for creating smarter, better products is to approach them using story-centered design." ~ B. Kowitz
 
 Color and mood are important to visualizations and the general legibility of your narrative. We'll discuss ways to convey or amplify your story with design, and think through some of the aesthetics of your interactives to come.
@@ -583,7 +583,7 @@ Color and mood are important to visualizations and the general legibility of you
 * Harris, J., [_Whale Hunt_](http://thewhalehunt.org/whalehunt.html).
 * Harris, J., [_I love your work_](http://iloveyourwork.net/).
 
-####READINGS:
+#### READINGS:
 * Today's Slides:
 	* [Color Lesson](https://gist.github.com/auremoser/2c3ee2fd8ba4c7c3989eadb5d092e2ad)
 	* [Web JS - 2](https://auremoser.github.io/web-intro-js/class2.html#/)
@@ -596,7 +596,7 @@ Color and mood are important to visualizations and the general legibility of you
 
 * Kowitz, B., [_Why good storytelling helps you design great projects_](https://gigaom.com/2013/04/14/why-good-storytelling-helps-you-design-great-products/).
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Make a few sketches of the data visualizations that might suit your project, take a photo of those sketches and create a style guide or swatch board (with color palette, fonts, layout indications) in a gist. These can build on your prototype time-series, mapping, or graph visualizations from previous weeks, but should reflect your "ideal" layout and not be limited to what you were able to accomplish in previous weeks.
 
 It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/projects/Sunlight-StyleGuide-DataViz.pdf) but it should have a few main sections:
@@ -607,8 +607,8 @@ It doesn't have to be as detailed as [this one](http://design.sunlightlabs.com/p
 * Description of the dataset(s)
 * Description of the concept and larger narrative - what aspects of your data will this style highlight?
 
-##11/08/16
-####CHOOSING AN INTERACTIVE
+## 11/08/16
+#### CHOOSING AN INTERACTIVE
 
 Choosing a way to display your data is a non-trivial operation, and using the past few weeks' study of a few general visualization types, we'll discuss what combination of visual data diagrams best suit the data we've groomed for our final projects. We'll also go over some of the tools for rendering those data as such.
 
@@ -620,7 +620,7 @@ Choosing a way to display your data is a non-trivial operation, and using the pa
 	* Using [DC.JS](http://dc-js.github.io/dc.js/)
 * [538 predictive election viz](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
 
-####READINGS
+#### READINGS
 * Today's Slides:
 	* [SVG Primer](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
 	* [Scroll Demo](http://vallandingham.me/scroll_demo/) + [Tutorial](http://vallandingham.me/scroller.html)
@@ -629,7 +629,7 @@ Choosing a way to display your data is a non-trivial operation, and using the pa
 * Oetting, J., [_Choosing the Right Chart_](http://blog.hubspot.com/marketing/data-visualization-choosing-chart).
 * Salkever, A., [_How to Choose the Right Visualization_](http://blog.import.io/post/how-to-choose-the-right-visualization-for-your-data).
 
-####ASSIGNMENT - PROPOSAL
+#### ASSIGNMENT - PROPOSAL
 Consider the data visualization types in [this catalogue](http://www.datavizcatalogue.com/), and the [tools listed here](http://selection.datavisualization.ch/). 
 
 Determine which type of visualizations you might make with your data, list them, and then select one to test and pursue. 
@@ -639,8 +639,8 @@ Diagram (aka, discuss in one ¶) what type of visualization you choose for your 
 Keep in mind how this changes or updates your style guide from last week; update that assignment where necessary; and link to the style guide at the end of your proposal.
 
 
-##11/15/16
-####CREATIVE NARRATIVE
+## 11/15/16
+#### CREATIVE NARRATIVE
 
 >"And I want you to ask yourself when you make things, when you prototype interactions, 'am I thinking about my own clock, or the user’s?' Am I going to help someone make order in his or her life, or am I going to send that person to a commune in Vermont?" ~ P. Ford
 
@@ -654,7 +654,7 @@ This week we'll talk about creative approaches to building narrative and new met
 
 * Bloomberg, [_"What's really warming the world?_](http://www.bloomberg.com/graphics/2015-whats-warming-the-world/).
 
-####READINGS
+#### READINGS
 
 * Slides for today:
 	* [JS Class 4](https://auremoser.github.io/web-intro-js/class4.html#/)
@@ -667,10 +667,10 @@ This week we'll talk about creative approaches to building narrative and new met
 * Case, N. + Hart, V., [_Parable of the Polygons_](http://ncase.me/polygons/).
 * Stikeleather, J., [_How to tell a story with data_](https://hbr.org/2013/04/how-to-tell-a-story-with-data).
 
-####PRACTICE
+#### PRACTICE
 Think about where you would like to publish your project and in what format. Will it be a stand-alone site with some text, a text-dense narrative with embedded graphs, a larger scroll-pages multimedia piece with images and video embeds to compliment? 
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Think about the interactives we've seen this semester and plan out your template layout.
 
 Reconsider your data and the pitch exercises from previous weeks, choose the best visualization and pitch for your narrative and pursue pushing that onto the web.
@@ -682,8 +682,8 @@ Here are some resources to help you get it on the web.
 
 Here is [an example of an interactive time series visualization](http://auremoser.github.io/graphitiTime/) of Graffiti cleanup rates (taken from 311 data). Here is [the code and readme](https://github.com/auremoser/graphitiTime/) explaining how this was made. This will be the format of your final projects (unless you choose a more creative way of hosting it). All of your code will be submitted on github with at least a link to the live demo in the `README.md` of your repository.
 
-###11/22/16
-####UNDERSTANDING IMPACT + ADDRESSING BIAS
+### 11/22/16
+#### UNDERSTANDING IMPACT + ADDRESSING BIAS
 
 >"I realize there’s a whole lot of inspiration out there, and some damn fine examples of great work, but I still find it hard to get a sense of direction...We need to know what makes a data story “work”. And what does a data story that “works” even mean?" ~ N. Diakopoulos
 
@@ -697,7 +697,7 @@ This week we'll go over how to process reactions to your work, and how to bullet
 * Giorgia Lupi + Accurat, [_Visual History of Nobel Prizes_](https://www.brainpickings.org/2012/11/29/giorgia-lupi-noble-prizes-visualization/)
 * Telegraph, [Which Country Has the Most Nobel Laureates](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11926364/Nobel-Prize-winners-Which-country-has-the-most-Nobel-laureates.html)
 
-####READINGS
+#### READINGS
 * Slides for this week:
 	* [Mozilla's Open Data Training Curriculum](https://github.com/mozillascience/open-data-training)
 	* [Web D3](https://github.com/sva-dsi/web-d3)
@@ -722,11 +722,11 @@ This week we'll go over how to process reactions to your work, and how to bullet
 * Hess, A., [_The Bro Whisperer of Bustle_](http://www.slate.com/articles/double_x/doublex/2014/08/bustle_one_year_later_bryan_goldberg_s_website_for_women_is_hugely_successful.single.html).
 * Jefferson, C., [_The Racism Beat: What it's like to write about hate over and over again_](https://medium.com/matter/the-racism-beat-6ff47f76cbb6).
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Continue with last week's assignment, work on publishing your project on github, posting the interactive on `gh-pages`, and explaining your process, sources, and reasoning in your README.md.
 
-##11/29/16
-####THE FUTURE OF MEDIA + FINAL PROJECTS
+## 11/29/16
+#### THE FUTURE OF MEDIA + FINAL PROJECTS
 
 > "I realize the instant communication platforms we enjoy now do have some negatives that are troubling." ~ J. Spann
 
@@ -738,7 +738,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 
 * NPR's [Index of the best commencement speaches ever](http://apps.npr.org/commencement/).
 
-####READINGS
+#### READINGS
 * Slides: 
 	* [Web D3](https://github.com/sva-dsi/web-d3)
 		* [DOM Access Exercise](http://bl.ocks.org/auremoser/24668d6f0918436cc01f15619e620a4c)
@@ -759,7 +759,7 @@ Meet with your project partners to discuss how you plan to wrap-up your projects
 * Rosling, H., [TED talks](http://www.ted.com/speakers/hans_rosling.html).
 
 
-####ASSIGNMENT
+#### ASSIGNMENT
 Continue with working on your final projects, you can make something from [this template for example](https://auremoser.github.io/final-exam/).
  
 * publishing your project and code on github
@@ -771,9 +771,9 @@ Continue with working on your final projects, you can make something from [this 
 	* **Demo Link**
 	* **Project Procedure**: describe your data processing, visualization selection, and analysis post-visualization
 	
-##12/06/16
+## 12/06/16
 
-####PROJECT CLINIC
+#### PROJECT CLINIC
 
 >"Give your characters opinions. Passive/malleable might seem likable to you as you write, but it’s poison to the audience." ~ Pixar, [_22 Rules of storytelling_](http://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/).
 
@@ -790,10 +790,10 @@ This meeting will go over:
 * how to evaluate and test your projects prior to submission
 * how to document your project
 
-####READING
+#### READING
 * Ford, P., [_What is Code?_](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/).
 
-####FINAL PROJECTS
+#### FINAL PROJECTS
 **DUE**: 12/13/16 9AM, in my inbox. 
 
 Please send the link to your project repository and any supportive materials to my email <amoser2@sva.edu>.
@@ -804,9 +804,9 @@ We will spend the first minutes of class going over your project pitches, please
 
 But in general, this project is a big deal! The final project is a substantial portion of your grade, and there will be no late grading because they lock me out of the grading system 7 days after our last class (around the 21st); ie. no late grades accepted.
 
-##12/13/16
+## 12/13/16
 
-####PRESENTATIONS AND DEMOS
+#### PRESENTATIONS AND DEMOS
 
 
 ![](https://raw.githubusercontent.com/sva-dsi/2016-fall-course/master/imgs/babel.png)
@@ -822,9 +822,9 @@ But in general, this project is a big deal! The final project is a substantial p
 
 ![certificate](https://raw.githubusercontent.com/auremoser/web-coding/master/_imgs/certificate.png)
 
-#SERVICES + RESOURCES
+# SERVICES + RESOURCES
 
-###CODE (OF CONDUCT)
+### CODE (OF CONDUCT)
 It's not that hard, code or respect. You will be expected to produce both in this class. 
 
 This code of conduct is a partnership we are building in mutual respect. I take it personally when you miss my classes and my assignments; being ontime is a way to show myself and the other students that you have respect for us. If you fail to do that, you're hindering your own education, but more importantly you're hindering your reputation as a person with integrity. 

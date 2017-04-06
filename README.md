@@ -6,10 +6,10 @@
 Welcome to the basic course repository for syllabus, slides, materials for Data Visualization Fall 2016, an SVA-DSI course.
 
 
-###INSTRUCTOR:
+### INSTRUCTOR:
 Aurelia Moser
 
-###DESCRIPTION
+### DESCRIPTION
 
 Data visualizations increasingly shape the way we process the success of initiatives, and the expectations for activism and innovation globally. How might you evaluate the success or impact of a program? What skills should you hone to communicate your projects and progress to a new audience? How can technology hone critical thinking and problem framing for a particular area of social need and interest? 
 
